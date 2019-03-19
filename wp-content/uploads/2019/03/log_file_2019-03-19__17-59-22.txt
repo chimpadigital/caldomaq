@@ -1,0 +1,217 @@
+
+---Downloaded files---
+The import files for: Demo Import were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://localhost/caldomaq
+Data file = D:\xampp\htdocs\caldomaq/wp-content/themes/ireca/demo_import/demo-content.xml
+Widget file = D:\xampp\htdocs\caldomaq/wp-content/themes/ireca/demo_import/widgets.wie
+Customizer file = not defined!
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Header 1 Top Left : 
+
+HTML personalizado - No Title - Imported
+
+Header 1 Top Center : 
+
+HTML personalizado - No Title - Imported
+
+Header 1 Top Right : 
+
+HTML personalizado - No Title - Imported
+
+Header 1 Beside Logo : 
+
+HTML personalizado - No Title - Imported
+
+Header 1 Cart : 
+
+HTML personalizado - No Title - Imported
+
+Header 1 home icon : 
+
+HTML personalizado - No Title - Imported
+
+Header 1 Search : 
+
+HTML personalizado - No Title - Imported
+
+Header 2 Left Logo : 
+
+HTML personalizado - No Title - Imported
+
+Header 2 Right Logo : 
+
+HTML personalizado - No Title - Imported
+
+Header 3 Info : 
+
+HTML personalizado - No Title - Imported
+
+Header 3 Cart : 
+
+HTML personalizado - No Title - Imported
+
+Header 3 Search : 
+
+HTML personalizado - No Title - Imported
+
+Header 4 Phone : 
+
+HTML personalizado - No Title - Imported
+
+Header 4 Social : 
+
+HTML personalizado - No Title - Imported
+
+Header 4 cart : 
+
+HTML personalizado - No Title - Imported
+
+Header Default Top Left : 
+
+HTML personalizado - No Title - Imported
+
+Header Default Top Right : 
+
+HTML personalizado - No Title - Imported
+
+Header Default Cart : 
+
+HTML personalizado - No Title - Imported
+
+Woocommerce Sidebar : 
+
+Filter Products by Price - Filter by price - Imported
+HTML personalizado - No Title - Imported
+
+Rental Sidebar : 
+
+HTML personalizado - Helping Center {{icon_lifesaver}} - Imported
+HTML personalizado - Categories{{ icon_drawer_alt }} - Imported
+Recent Posts With Thumbnails - Rental Tips{{icon_documents_alt}} - Imported
+
+FAQ Sidebar : 
+
+HTML personalizado - Can&#039;t find Answer ? - Imported
+HTML personalizado - Helping Center - Imported
+HTML personalizado - Category - Imported
+
+Footer Info : 
+
+HTML personalizado - No Title - Imported
+
+Footer Column 1 : 
+
+HTML personalizado - Get in Contact - Imported
+
+Footer Column 2 : 
+
+Recent Posts With Thumbnails - Latest Blog - Imported
+
+Footer Column 3 : 
+
+Menú de Navegación - Usefull Links - Imported
+
+Footer Column 4 : 
+
+HTML personalizado - Working Hours - Imported
+
+Footer Social : 
+
+HTML personalizado - No Title - Imported
+
+Main Sidebar : 
+
+Ireca Search - Search - Imported
+Categorías - Categories {{ icon_drawer_alt }} - Imported
+Recent Posts With Thumbnails - Recent Tips {{icon_documents_alt}} - Imported
+Nube de etiquetas - Tags {{icon_tags_alt}} - Imported
+
+Footer copyright : 
+
+HTML personalizado - No Title - Imported
+
+
+
+---pt-ocdi/after_import---
+
