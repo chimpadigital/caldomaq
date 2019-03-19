@@ -1,0 +1,1197 @@
+/*
+Theme Name: Ireca
+
+*/
+
+
+/* Reset */
+body {
+	direction: rtl;
+	unicode-bidi: embed;
+}
+
+caption,
+th,
+td {
+	text-align: right;
+}
+.ova-page-section{
+	text-align: right;
+}
+
+.text-left{
+	text-align: right!important;
+}
+.text-right{
+	text-align: left!important;
+}
+
+.border_right{
+	border-left: 1px solid #efefef;
+	border-right: none;
+}
+
+.wrap_why.border_right {
+    margin-left: 60px;
+}
+.sidebar {
+    padding-right: 30px;
+    padding-left: 0;
+    text-align: right;
+}
+.woocommerce input{
+	padding-right: 5px;
+}
+@media( max-width: 991.98px ){
+	.wrap_why.border_right{
+		border: none;
+		margin-left: 0;
+	}
+}
+
+/* Header */
+div.logo{
+	float: right;
+}
+div.logo a{
+	margin-right: 0;
+}
+header .ireca_info i{
+	padding-right: 0;
+	padding-left: 12px;
+}
+.ireca_info{
+    margin-left: 30px;
+    margin-right: 0;
+}
+.ireca_info.box_dotted i{
+	border-right: none;
+	border-left: 1px solid rgba(211, 210, 210, 0.8);
+    margin-left: 10px;
+    margin-right: 0;
+}
+.header1_home_icon .wrap_icon:before{
+	right: 0;
+	left: auto;
+}
+.header1_home_icon .wrap_icon i {
+    float: right;
+    padding-right: 23px;
+}
+
+.header1_search{
+	margin-left: 0!important;
+    margin-right: 3rem!important;
+}
+.ovacrs_searchwoo .icon_search{
+	padding: 30px 100px 30px 0px;
+}
+header .navbar-nav{
+    margin-left: auto!important;
+	margin-right: 0!important;
+}
+nav.navbar ul.dropdown-menu>li.dropdown>a:before{
+    float: left;
+    margin-top: 10px;
+}
+.woocommerce .ireca-cart-wrapper .ireca_minicart, .ireca-cart-wrapper .ireca_minicart{
+	left: 0;
+	right: auto;
+}
+.ovacrs_searchwoo form{
+	left: 0;
+	right: auto;
+}
+.ovacrs_searchwoo form input.search-field{
+	margin-left: -4px;
+	border-right: 1px solid #343434;
+}
+
+
+@media( max-width: 991.98px ){
+	header .navbar-nav{
+		text-align: right;
+	}
+	nav.navbar li.dropdown:hover>ul.dropdown-menu{
+		right: 0;
+	    left: auto;
+	    padding-left: 0;
+	    padding-right: 25px;
+	}
+	nav.navbar li.dropdown ul.dropdown-menu li{
+		text-align: right;
+	}
+}
+
+
+
+
+
+
+
+
+/* Service */
+.ireca_service i {
+    margin-left: 30px;
+    margin-right: 0;
+}
+.ireca_service .content {
+    padding-right: 0px;
+    padding-left: 15px;
+    text-align: right;
+}
+
+
+/* Heading 2 */
+.ovacrs_heading2 {
+	text-align: right;
+}
+.ovacrs_heading2 h3 span{
+	right: auto;
+    left: -20px;
+}
+
+.woocommerce .ireca-cart-wrapper.style2, .ireca-cart-wrapper.style2{
+	text-align: left;
+	float: left;
+}
+.woocommerce .ireca-cart-wrapper.style2 .cart-total, .ireca-cart-wrapper.style2 .cart-total {
+    padding-left: 0px;
+    padding-right: 12px;
+}
+.woocommerce .ireca-cart-wrapper .cart-total .items, .ireca-cart-wrapper .cart-total .items{
+	right: auto;
+	left: 0px;
+}
+
+.ireca_info2 .icon{
+	padding-right: 0px;
+	padding-left: 10px;
+}
+.ireca_info2 .info{
+	text-align: right;
+}
+
+@media (max-width: 767.98px){
+	.ovacrs_heading1.style2 h3.title,
+	.ovacrs_heading1.style2 .desc {
+	    text-align: right;
+	}	
+	
+
+}
+
+
+
+
+.ovatheme_header_version3 .ova_menu nav.navbar{
+	float: left;
+	
+}
+.ovatheme_header_version3 .ova_menu nav.navbar:before{
+	right: -61px;
+	left: 0;
+}
+.header3_search{
+	margin-left: 0!important;
+	margin-right: 0!important
+}
+.ovatheme_header_version3 .ova_menu .ovacrs_searchwoo .icon_search{
+	padding: 23px 20px 24px 15px;
+}
+.ovatheme_header_version3 .ova_menu nav.navbar:before{
+	display: none;
+}
+.ovatheme_header_version3 .ova_menu nav.navbar:after {
+    border-left: 71px solid transparent;
+    border-right: 71px solid transparent;
+    border-bottom: 71px solid #2d5685;
+    content: "";
+    position: absolute;
+    right: -71px;
+    top: 0;
+    z-index: 1;
+}
+
+
+.ovatheme_header_version3 nav.navbar ul.dropdown-menu>li.dropdown>a:before {
+    float: right;
+    margin-top: 10px;
+    border-right: 0;
+    border-left: .3em solid;
+    border-top: .3em solid transparent;
+    border-bottom: .3em solid transparent;
+}
+.ovatheme_header_version3 nav.navbar li.dropdown ul.dropdown-menu li:hover ul.dropdown-menu {
+    display: block;
+    right: auto;
+    left: 100%;
+}
+.rental_item.style4 .content .price .time{
+	padding-right: 7px;
+	padding-left: 0px;
+}
+
+.rental_item.style4 .content .features .feature-item.odd {
+    padding-right: 0px;
+    padding-left: 30px;
+    border-left: 1px solid #e5e5e5;
+    border-right: none;
+}
+.rental_item.style4 .content .features .feature-item.eve {
+    padding-left: 0;
+    padding-right: 30px;
+}
+
+.rental_item.style4 .ireca_btn i.arrow_right:before{
+    content: "\23";	
+}
+.footer_v2 .wrap_slide2_nav .content:after {
+    left: -48px;
+    right: auto;
+}
+@media (max-width: 991.98px){
+	.ovatheme_header_version3 .ova_menu nav.navbar:after{
+		display: none;
+	}
+	nav.navbar .ireca-cart-wrapper{
+		margin-left: 5px;
+	}
+	nav.navbar a.navbar-brand{
+		margin-right: 0;
+	}
+	.archive_rental .rental_item.style1 .content .features .feature-item i {
+	    display: block;
+	    width: 100%;
+	}
+}
+
+/* Product filter */
+.ovacrs_product_filter ul.nav li:last-child {
+    margin-right: 0;
+    margin-left: 0px;
+}
+.rental_item .wrap_btn a.btn_price .wrap_content .time {
+    padding-left: 0px;
+    padding-right: 5px;
+}
+.rental_item .content .features .feature-item{
+	text-align: right;
+}
+.rental_item .content .features .feature-item i {
+    margin-right: 0px;
+    float: right;
+    margin-left: 10px;
+}
+
+.rental_item.style3 .bottom {
+    text-align: right;
+    padding-right: 40px;
+    padding-left: 0;
+}
+.rental_item.style3 .content .woocommerce-product-rating{
+	text-align: left;
+}
+.rental_item.style3 .content h3.title{
+	text-align: right;
+}
+.rental_item.style4 .content{
+	text-align: right;
+}
+.rental_item .content .woocommerce-product-rating .star-rating{
+	margin-right: 0;
+	margin-left: 15px;
+}
+
+/* CTA */
+.ovacrs_btn_action.border_left {
+    border-right: 1px solid #454545;
+    border-left: none;
+    text-align: right;
+    padding-right: 60px;
+    padding-left: 0;
+    
+}
+@media( max-width: 991.98px ){
+	.ovacrs_btn_action.border_left{
+		padding-right: 0;
+		border: none;
+	}
+}
+.ovacrs_support{
+	text-align: right;
+}
+
+/* testimonial */
+.ovacrs_testimonial .desc{
+	text-align: right;
+}
+.ovacrs_testimonial .desc:after{
+	left: 0px;
+    right: 50px;
+}
+.ovacrs_testimonial .author img {
+    width: 80px;
+    float: right;
+    padding-right: 0px;
+    padding-left: 30px;
+    margin-right: 50px;
+}
+.ovacrs_testimonial .author .info {
+    display: inline;
+    float: right;
+    text-align: right;
+}
+
+/* Blog */
+.ova_blog .content .ova_media .post_date {
+    position: absolute;
+    left: 0px;
+    right: 30px;
+}
+.ova_blog .content .bottom{
+	text-align: right;
+}
+
+.ova_blog .content .post-meta .post-cat {
+    margin-left: 45px;
+    margin-right: 0;
+    float: right;
+}
+.ova_blog .content .post-meta i {
+    padding-left: 5px;
+    float: right;
+    padding-right: 0;
+   	margin-top: 2px;
+}
+.ova_blog .content .read_more:before{
+	right: 0;
+}
+.ova_blog .content .read_more{
+	padding-right: 35px;
+	padding-left: 0;
+}
+.ovacrs_product_filter .wrap_nav .ireca_nav .carousel-control-prev{
+	margin-right: 0px;
+	margin-left: 15px;
+}
+.ovacrs_product_filter .wrap_nav .ireca_nav .carousel-control-next {
+    margin-left: 0px;
+    margin-right: 15px;
+}
+.ovacrs_product_filter .wrap_nav .ireca_nav .carousel-control-prev i:before{
+	content: "\f0da";
+}
+.ovacrs_product_filter .wrap_nav .ireca_nav .carousel-control-next i:before{
+	content: "\f0d9";
+}
+
+/* mai chimp */
+.ova_mailchimp .submit{
+	right: auto;
+	left: 5px;
+}
+.ova_mailchimp i{
+	right: 25px;
+	left: auto;
+}
+.ova_mailchimp .email{
+	text-align: right;
+	padding-right: 70px;
+	padding-left: 0;
+}
+
+/* Service full */
+.ovacrs_service_full .title{
+	padding-left: 70px;
+    text-align: left;
+    padding-right: 0;
+}
+.ovacrs_service_full .title:after {
+    
+    left: -50px;
+    right: auto;
+    
+}
+.ovacrs_service_full .sub_title:after{
+	right: -25px;
+	left: auto;
+}
+.ovacrs_service_full .sub_title{
+	text-align: right;
+	padding-right: 70px;
+	padding-left: auto;
+}
+.ovacrs_service_full .content .img {
+    margin-left: 0px;
+    margin-right: -100px;
+}
+    
+.ovacrs_service_full .content .wrap_service .item .icon {
+    
+    margin-left: 30px;
+    margin-right: 0px;
+}
+.ovacrs_service_full .content .wrap_service .item .info{
+	text-align: right;
+}
+
+@media( max-width: 991.98px ){
+	.ovacrs_service_full .heading .title{
+		padding-left: 0;
+	}
+	.ovacrs_service_full .heading .sub_title{
+		padding-right: 0;
+	}
+
+	.footer_v2.footer_default .footer_info .wrap_slide2_nav .content.px-5{
+		padding-right: 0!important;
+	}
+	footer.footer_v2 .footer_info .custom-html-widget .ireca_info{
+		padding-right: 0;
+	}
+}
+@media( max-width: 767.98px ){
+	.ovacrs_service_full .heading .title,
+	.ovacrs_service_full .heading .sub_title{
+		text-align: right;
+	}
+	
+}
+
+/* Footer */
+footer.footer{
+	text-align: right;
+}
+
+.footer_default .recent-posts-widget-with-thumbnails ul li .rpwwt-post-categories{
+	padding-right: 0px;
+    padding-left: 10px;
+}
+
+footer.footer .ireca_info i{
+	padding-left: 12px;
+	padding-right: 0px;
+}
+
+
+
+/* why */
+.ovacrs_why .number{
+	margin-left: 20px;
+	margin-right: 0px;
+}
+.ovacrs_why .content{
+	text-align: right;
+}
+
+
+/* Slideshow 2 */
+.tparrows.ireca.tp-leftarrow .tp-title-wrap.ireca{
+	left: 0;
+}
+
+
+.search_slide .wrap_content .s_field label{
+	text-align: right;
+}
+.search_slide .wrap_content .s_field input, .search_slide .wrap_content .s_field select{
+	padding-right: 10px;
+	padding-left: 0;
+}
+
+
+.search_slide .s_submit .wrap_btn{
+	padding-right: 0px;
+	padding-left: 15px;
+}
+@media( max-width: 767.98px ){
+	.search_slide .s_submit .wrap_btn{
+		margin-left: 0;
+	}
+	.skew_bg_right:before{
+		display: none!important;
+	}
+
+}
+
+
+.ovacrs_team .item{
+	text-align: right;
+}
+
+.tp-thumb.selected:before{
+	left: 0;
+}
+
+.boat_support.ovacrs_btn_action.border_left{
+	border-right: none;
+	padding-top: 50px;
+}
+.boat_weknow{
+	padding-top: 0;
+	padding-left: 150px;
+}
+
+@media( max-width: 991.98px ){
+	.boat_support.ovacrs_btn_action.border_left{
+		padding-top: 0;
+	}
+}
+
+
+.skew_bg_right:before{
+   	border-left: 150px solid #fff;
+	border-right: 0px solid transparent;
+	border-top: 394px solid transparent;
+	right: auto;
+	left: 15px;
+}
+.skew_bg_left:before{
+    right: -135px;
+    border-left: 150px solid #f6f6f6;
+    border-right: 0px solid transparent;
+    border-top: 394px solid transparent;
+}
+
+footer.footer_v2 .footer_col1:before{
+	right: -50px;
+}
+
+
+
+footer.footer_v2 .wrap_slide2_nav .content:before {
+    left: auto;
+    right: 0;
+    left: auto;
+    margin-right: -1000px;
+    
+}
+.wrap_slide2_nav .content:after {
+ 	right: auto;
+    left: -48px;
+ 
+}
+
+
+.ovatheme_header_default .cart_icon{
+	margin-left: 0!important;
+}
+.ovatheme_header_default ul.navbar-nav{
+	    text-align: left;
+    float: left;
+    margin-left: 0!important;
+    margin-right: auto!important;
+}
+.ovatheme_header_default .navbar-brand{
+	margin-right: 0!important;
+}
+
+.ovacrs_heading4 .desc .hight:after {
+    
+    left: -5px;
+    right: auto;
+}
+
+.ovatheme_header_version4 .header_content .left {
+ 
+    border-left: 1px solid #e5e5e5;
+ 	border-right: none;
+}
+.ovatheme_header_version4 .header_content .right .top .col{
+	    border-left: 1px solid #e5e5e5;
+	    border-right: none;
+}
+
+.ireca_wd_search form .wrap_content label{
+	text-align: right;
+}
+.sidebar .widget h4.widget-title{
+	text-align: right;
+}
+.rental_help{
+	text-align: right;
+}
+ul.rental_list li{
+	text-align: left;
+	padding-left: 0;
+    
+}
+ul.rental_list li ul.children li{
+	padding-right: 15px;
+}
+ul.rental_list li a{
+	float: right;
+	text-align: right;
+}
+.rpwwt-widget ul li{
+	text-align: right;
+}
+.rpwwt-widget ul li img {
+    float: right!important;
+    margin: .3em 0 .75em .75em!important;
+}
+.rental_item.style1 .other_features .item{
+	text-align: right;
+}
+.rental_item.style1 .other_features .item i{
+	float: right;
+    margin-top: 2px;
+    margin-left: 3px;
+}
+
+.vehicle_features .other_features .item{
+	text-align: right;
+}
+.vehicle_features .other_features .item i{
+	float: right;
+    margin-top: 2px;
+    margin-left: 3px;	
+}
+.rental_item.list_product_style1 .content{
+	text-align: right;
+}
+.rental_item.list_product_style1 .content .price{
+	text-align: right;
+}
+
+.list_product_style2.rental_item .content .features .feature-item i{
+	float: none;
+}
+.rental_item.list_product_style2 .content .left .woocommerce-product-rating{
+	padding-right: 50px;
+	padding-left: 0;
+	margin-top: 0;
+}
+
+.rental_item.list_product_style1 .content .product_attr{
+	text-align: right;
+}
+.rental_item.list_product_style2 .content .product_attr{
+	text-align: left;
+}
+.rental_item.list_product_style2 .content .right .other_features .item{
+	text-align: right;
+}
+.rental_item.list_product_style2 .content .right .other_features .item i{
+	float: right;
+	margin-top: 2px;
+	margin-left: 3px;
+}
+
+
+.rental_item.list_product_style1.list_product_style3 .content{
+    padding-right: 40px;
+    padding-left: 0;
+    text-align: right;
+}
+.rental_item.list_product_style1.list_product_style3 .content .other_features .item{
+	text-align: right;
+}
+.rental_item.list_product_style1.list_product_style3 .content .other_features .item i{
+	float: right;
+	margin-top: 2px;
+	margin-left: 3px;
+}
+
+.rental_item.list_product_style1.list_product_style3 .content .woocommerce-product-rating .star-rating{
+	margin-right: 15px;
+    margin-left: 0;
+}
+
+.archive_rental .sidebar{
+	padding-left: 0;
+}
+@media (max-width: 991.98px){
+	.archive_rental .sidebar {
+	    padding-left: 0;
+	    padding-right: 0;
+	    margin-left: 0px;
+	    margin-right: 0px;
+	}
+	.sidebar{
+		padding-left: 0;
+	    padding-right: 0;
+	}
+	.ovatheme_header_default ul.navbar-nav {
+	    text-align: right;
+	    float: right;
+	    margin-right: 0!important;
+	    margin-left: auto!important;
+	}
+}
+
+
+@media (max-width: 767px){
+	.rental_item.list_product_style2 .wrap_content .content .right .features .feature-item {
+	    
+	    text-align: right;
+	    
+	}
+	.rental_item.list_product_style2 .content .product_attr{
+		text-align: right;
+	}
+	.rental_item.list_product_style1.list_product_style3 .content{
+		padding-right: 0;
+	}
+
+	.archive_rental .sidebar {
+	    
+	    margin-left: 0px;
+	    margin-right: 0px;
+	}
+}
+
+
+.woocommerce-pagination ul.page-numbers li a.prev:before, 
+.woocommerce-pagination ul.page-numbers li span.prev:before{
+	content: "\35";
+}
+.woocommerce-pagination ul.page-numbers li a.next:before, 
+.woocommerce-pagination ul.page-numbers li span.next:before{
+	content: "\34";
+}
+
+.ireca-thumbnails button.owl-next span:before{
+	content: "\35";
+}
+.ireca-thumbnails button.owl-prev span:before{
+	content: "\34";
+}
+
+.woocommerce .entry-summary{
+	text-align: right;
+	padding-left: 0;
+	padding-right: 25px;
+}
+
+.ovacrs_price_rent .nav:before{
+	left: 0;
+	right: auto;
+}
+.ovacrs_price_rent .collapse_content{
+	text-align: right;
+}
+
+.ireca__product_calendar ul.intruction{
+	text-align: right;
+}
+
+.ireca__product_calendar ul.intruction li {
+    padding-right: 0px;
+    display: inline-block;
+    padding-left: 10px;
+    display: flex;
+    flex-direction: row-reverse;
+}
+.ireca__product_calendar ul.intruction li .pink,
+.ireca__product_calendar ul.intruction li .white,
+.ireca__product_calendar ul.intruction li .yellow {
+	margin-left: 5px;
+}
+.ireca_booking_form{
+	text-align: right;
+}
+.ireca_booking_form .ireca_extra_service .ovacrs_resource .item .left{
+	padding-left: 5%;
+	padding-right: 0;
+}
+#request_booking{
+	text-align: right;
+}
+.request_booking .wrap_fields select, .request_booking .wrap_fields input,
+.request_booking .extra textarea{
+	padding-left: 0;
+	padding-right: 5px;
+}
+.request_booking .ireca_extra_service .ovacrs_resource .item .left{
+	padding-right: 0;
+	padding-left: 5%;
+}
+.woocommerce table.shop_attributes td p{
+	padding-right: 5px;
+}
+.woocommerce .commentlist .star-rating{
+	margin-right: 5px;
+}
+.woocommerce p.stars a{
+	text-indent: -10000px;
+	color: transparent!important;
+}
+.woocommerce .related.products h2{
+	text-align: right;
+}
+.woocommerce #reviews #comments h2{
+	text-align: right;
+}
+.woocommerce #reviews #comments ol.commentlist li{
+	text-align: right;
+}
+
+.woocommerce #reviews #comments ol.commentlist{
+	padding-right: 0;
+}
+#review_form_wrapper{
+	text-align: right;
+}
+.woocommerce #review_form #respond .form-submit input{
+	float: right;
+}
+.woo_rent_top.bg_header .left h1.product_title{
+	text-align: right;
+}
+
+@media (max-width: 991.98px){
+	.ireca__product_calendar .fc-toolbar.fc-header-toolbar {
+	    align-items: flex-end;
+	}
+	.ireca__product_calendar .fc-button.fc-today-button {
+	    margin-right: 0;
+	}
+	.ireca__product_calendar .fc-button{
+		margin-right: 0;
+	}
+}
+
+@media (max-width: 767.98px){
+	.woocommerce .entry-summary {
+	    padding-right: 0;
+	}
+	.ovacrs_price_rent .collapse_content .price_table table tr td:before {
+	    float: right;
+	}
+	.ovacrs_price_rent .collapse_content .price_table table tr td.bold{
+		text-align: left;
+	}
+	.ovacrs_price_rent .collapse_content .price_table table tr td{
+		text-align: left;
+	}
+
+	.ovacrs_price_rent .collapse_content .price_table table tr td a {
+	    text-align: right;
+	    float: right;
+	    clear: both;
+	}
+
+}
+.popup-close{
+	text-align: center!important;
+}
+.woocommerce div.product .woocommerce-tabs .panel{
+	text-align: right;
+}
+
+.rental_product_2 .ireca__product_calendar .fc-toolbar .fc-center{
+	text-align: right;
+}
+
+.ireca_booking_form .wrap_fields select, .ireca_booking_form .wrap_fields input{
+	padding-left: 0;
+	padding-right: 10px;
+}
+
+ul.products li.ireca_product h2.woocommerce-loop-product__title{
+	text-align: right;
+}
+.ireca_service_item i {
+    padding-right: 0px;
+    padding-left: 30px;
+}
+
+.ovacrs_heading3 h3.title.border_yes span:before {
+    right: 50%;
+    left: 0;
+    margin-right: -25px;
+}
+.ireca_service_card .content{
+	text-align: right;
+}
+
+.img_skew.left:before{
+	left: 13px;
+	right: auto;
+	transform: skew( 5deg, 0);
+}
+.img_skew.left .content h3.title{
+	left: -500px;
+	right: auto;
+}
+.img_skew.left .content h3.title span:before{
+	right: -300px;
+	left: auto;
+}
+.img_skew.right .content h3.title{
+	right: -500px;
+	left: auto;
+}
+.img_skew.right .content h3.title span:before{
+	left: -300px;
+	right: auto;
+}
+.img_skew .wrap_desc{
+	right: 90px;
+	left: auto;
+}
+.img_skew .wrap_desc .contact{
+	margin-left: 0;
+	margin-right: 10px;
+}
+
+.ireca_service_repair .content h3,
+.ireca_service_repair .content .desc{
+	text-align: right;
+	padding-right: 30px;
+	padding-left: 0;
+}
+
+@media (max-width: 1199.98px){
+	.img_skew.left .content h3.title {
+	    left: -300px;
+	    right: auto;
+	}
+	.img_skew.left .content h3.title span:before {
+	    right: -100px;
+	    left: atuo;
+	    
+	}
+	.img_skew.right .content h3.title {
+	    right: -300px;
+	    
+	}
+	.img_skew.right .content h3.title span:before {
+	    left: -100px;
+	    right: auto;
+	    
+	}
+
+
+}
+
+@media (max-width: 767.98px){
+	.img_skew.left .content h3.title{
+		text-align: right;
+	}
+	.img_skew.right h3.title {
+		text-align: right;
+	    margin-right: 60px !important;
+	    margin-left: 0!important;
+	    left: 0!important;
+	    right: 0!important;
+	}	
+}
+
+
+.ireca_contact input, .ireca_contact textarea{
+	text-align: right;
+	padding-left: 0;
+	padding-right: 5px;
+}
+
+
+
+
+.blog article.post-wrap{
+	text-align: right;
+}
+article.post-wrap .post-meta .post-meta-content .post-date, article.post-wrap .post-meta .post-meta-content .post-categories{
+	margin-right: 0;
+	margin-left: 10px;
+	float: right;
+}
+article.post-wrap .post-readmore a{
+	padding-left: 0;
+	padding-right: 35px;
+}
+article.post-wrap .post-readmore a:before{
+	right: 0;
+    left: auto;
+    padding-right: 0;
+}
+
+.fa-chevron-right:before{
+	content: "\f053";
+}
+.fa-chevron-left:before{
+	content: "\f054";
+}
+.wrap_default_heading_page .heading_page h1.page-title{
+	text-align: right;
+}
+article.post-wrap .post-body{
+	text-align: right;
+}
+#comments h4.block-title{
+	text-align: right;
+}
+#commentform p.form-submit input.submit{
+	float: right!important;
+	
+}
+ul.commentlists li.comment{
+	float: right;
+	text-align: right;
+}
+ul.commentlists header.comment-author {
+float: right;
+margin-left: 10px;
+margin-right: 0;
+}
+
+.ovacrs_about_info.text-right .number {
+	margin-right: 20px;
+	
+}
+.ovacrs_about_info.text-left .number {
+	margin-left: 20px;
+}
+.ireca_get_in_touch .fields input, .ireca_get_in_touch .fields textarea{
+	text-align: right;
+	padding-left: 0;
+	padding-right: 10px;
+
+}
+.ireca_get_in_touch .fields input.wpcf7-submit{
+	text-align: center;
+	padding-right: 0;
+}
+
+.ovacrs_heading1.border_yes.text-left h3 span {
+    padding-right: 0;
+    padding-left: 30px;
+}
+.ovacrs_heading1.border_yes.text-right h3 span{
+	padding-right: 30px;
+    padding-left: 0px;	
+}
+.woocommerce .cart-collaterals .cart_totals, .woocommerce-page .cart-collaterals .cart_totals{
+	float: right;
+}
+.ireca_page_cart .woocommerce-cart-form table.shop_table tbody tr td{
+	padding: 20px 20px 20px 15px;
+}
+
+#order_review table.shop_table tbody tr td{
+	padding: 20px 20px 20px 15px;	
+}
+
+
+
+.header1_home_icon .wrap_icon:before{
+	top: -29px;
+}
+.rental_item.style1 .content .features .feature-item.odd{
+	padding-right: 0;
+    border-left: 1px solid #e5e5e5;
+    border-right: none;
+    padding-left: 27px;
+}
+
+.rental_item.style1 .content .features .feature-item.eve {
+    padding-left: 0;
+    padding-right: 27px;
+    
+}
+
+.wrap_slide2_nav .content:before{
+	right: 0;
+	left: auto;
+}
+.wrap_slide2_nav .content:after{
+	right: 0;
+    left: auto;
+}
+.rental_item.style3 .content .features .wrap_item {
+    
+    border-left: 1px solid #e5e5e5;
+    border-right: none;
+    padding-right: 25px;
+    padding-left: 25px;
+}
+.rental_item.style3 .content .features .wrap_item:first-child {
+    padding-right: 0;
+    border-right: none;
+    padding-left: 30px;
+}
+.rental_item.style3 .content .features .wrap_item:last-child {
+    padding-left: 0px;
+    border-left: none;
+    padding-right: 30px;
+    
+}
+
+footer.footer_default .rpwwt-widget ul {
+    padding-left: 30px;
+    padding-right: 0;
+}
+
+.wrap_slide2_nav .content:before {
+    left: 0;
+    right: auto;
+}
+
+.left_sidebar .sidebar {
+    padding-left: 30px;
+    padding-right: 0;
+}
+article.post-wrap .wrap_content .post_date {
+    
+    
+    margin-right: 0px;
+    margin-left: 30px;
+}
+.ovatheme_header_default + .wrap_default_heading_page .heading_page h2{
+	text-align: right;
+}
+
+@media (max-width: 1199.98px){
+	.archive_rental .rental_item.style1 .content .features .feature-item i,
+	.rental_item.style3 .content .features .feature-item i {
+	    display: block;
+	    width: 100%;
+	}
+
+
+}
+@media( max-width: 991.98px ){
+	footer.footer_default .rpwwt-widget ul{
+		padding-left: 0;
+		padding-right: 0;
+	}	
+	.archive_rental .rental_item.style1 .content .features .feature-item i,
+	.rental_item.style3 .content .features .feature-item i {
+	    display: inline-block;
+	    width: auto;
+	}
+	.rental_item.style3 .content .features .wrap_item{
+		padding-right: 0;
+		border: none;
+	}
+	.rental_item.style3 .content .features .wrap_item:last-child{
+		padding-right: 0;
+		border: none;	
+	}
+
+	.archive_rental .rental_item.style1 .content .features .feature-item i {
+	    display: inline-block;
+	    width: auto;
+	}
+}
+
+@media( max-width: 767.98px ){
+	.ireca_page_cart .woocommerce-cart-form table.shop_table tbody tr td .coupon .button{
+		margin-left: 0;
+	}
+	.ireca_page_cart .woocommerce-cart-form table.shop_table tbody tr td button.button{
+		margin-left: 15px;
+    	margin-right: 0;
+	}
+	.rental_item.style3 .content .woocommerce-product-rating {
+	    text-align: right;
+	}
+	
+}
+
+
+
+
+

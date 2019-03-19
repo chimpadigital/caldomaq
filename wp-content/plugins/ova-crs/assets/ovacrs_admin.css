@@ -1,0 +1,39 @@
+.ovacrs-form-field{
+	padding: 10px;
+}
+
+.ovacrs_rt_discount{
+	border: 1px solid #e5e5e5;
+}
+.wrap_rt_discount{
+	display: none;
+}
+.ovacrs_rt .ovacrs_rt_price,
+.ovacrs_rt .ovacrs_rt_price_hour,
+.ovacrs_rt .ovacrs_rt_startdate,
+.ovacrs_rt .ovacrs_rt_enddate{
+	width: 100%!important;
+}
+.tr_rt_resource input{
+	width: 100%!important;
+}
+
+.ovacrs_heading_section{
+	text-transform: capitalize;
+	padding-bottom: 5px;
+    display: inline-block;
+}
+.ovacrs_right{
+	float: right;
+}
+.ovacrs_features input{
+	width: 100%!important;
+}
+
+.input_per_100{
+	width: 100%!important;
+}
+.tr_rt_resource input.short_dura,
+.tr_rt_resource select.short_dura{
+	width: 50%!important;
+}

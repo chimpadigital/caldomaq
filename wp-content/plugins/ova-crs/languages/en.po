@@ -1,0 +1,1214 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ovatheme CRS Plugin\n"
+"POT-Creation-Date: 2018-08-10 11:45+0700\n"
+"PO-Revision-Date: 2018-08-10 11:45+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.5\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x;esc_html;esc_html__;esc_html_e;esc_attr;"
+"esc_attr__;esc_attr_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: custom-post-type/register_cpt.php:8 custom-post-type/register_cpt.php:9
+#: custom-post-type/register_cpt.php:10 custom-post-type/register_cpt.php:11
+msgid "Location"
+msgstr ""
+
+#: custom-post-type/register_cpt.php:12 custom-post-type/register_cpt.php:13
+msgid "Add New Location"
+msgstr ""
+
+#: custom-post-type/register_cpt.php:14
+msgid "New Location"
+msgstr ""
+
+#: custom-post-type/register_cpt.php:15
+msgid "Edit Location"
+msgstr ""
+
+#: custom-post-type/register_cpt.php:16
+msgid "View Location"
+msgstr ""
+
+#: custom-post-type/register_cpt.php:17
+msgid "All Location"
+msgstr ""
+
+#: custom-post-type/register_cpt.php:18
+msgid "Search Location"
+msgstr ""
+
+#: custom-post-type/register_cpt.php:19
+msgid "Parent Location:"
+msgstr ""
+
+#: custom-post-type/register_cpt.php:20
+msgid "No Location found."
+msgstr ""
+
+#: custom-post-type/register_cpt.php:21
+msgid "No Location found in Trash."
+msgstr ""
+
+#: inc/ovacrs-add-field-woocat.php:8 inc/ovacrs-add-field-woocat.php:29
+msgid "Display"
+msgstr ""
+
+#: inc/ovacrs-add-field-woocat.php:10 inc/ovacrs-add-field-woocat.php:32
+msgid "Rental"
+msgstr ""
+
+#: inc/ovacrs-add-field-woocat.php:11 inc/ovacrs-add-field-woocat.php:33
+msgid "Shop"
+msgstr ""
+
+#: inc/ovacrs-admin-woo.php:11
+msgid "Car Rental"
+msgstr ""
+
+#: inc/ovacrs-cart.php:72
+msgid "Insert PickUp Location"
+msgstr ""
+
+#: inc/ovacrs-cart.php:78
+msgid "Insert PickOff Location"
+msgstr ""
+
+#: inc/ovacrs-cart.php:84
+msgid "Insert PickUp, PickOff date"
+msgstr ""
+
+#: inc/ovacrs-cart.php:91
+msgid "Pick-up Date must be greater than Drop-off Date"
+msgstr ""
+
+#: inc/ovacrs-cart.php:98
+msgid "Pick-up Date must be greater than Current Time"
+msgstr ""
+
+#: inc/ovacrs-cart.php:107
+#, php-format
+msgid "Rent Day Min: %d day"
+msgstr ""
+
+#: inc/ovacrs-cart.php:115 inc/ovacrs-cart.php:123
+#, php-format
+msgid "Rent Hour Min %d hour"
+msgstr ""
+
+#: inc/ovacrs-cart.php:136
+msgid "This time is not available for renting"
+msgstr ""
+
+#: inc/ovacrs-cart.php:240
+msgid "Vehicle is unavailable for this time, Please book other time."
+msgstr ""
+
+#: inc/ovacrs-cart.php:320
+msgid "Insert full data in booking form"
+msgstr ""
+
+#: inc/ovacrs-cart.php:326 inc/ovacrs-contact-tab.php:61
+#: shortcodes/shortcodes.php:1036
+msgid "Pick-up Location"
+msgstr ""
+
+#: inc/ovacrs-cart.php:334 inc/ovacrs-contact-tab.php:68
+#: shortcodes/shortcodes.php:1041
+msgid "Drop-off Location"
+msgstr ""
+
+#: inc/ovacrs-cart.php:342 inc/ovacrs-contact-tab.php:81
+#: shortcodes/shortcodes.php:1046
+msgid "Pick-up Date"
+msgstr ""
+
+#: inc/ovacrs-cart.php:348 inc/ovacrs-contact-tab.php:86
+#: shortcodes/shortcodes.php:1051
+msgid "Drop-off Date"
+msgstr ""
+
+#: inc/ovacrs-cart.php:356
+msgid "Extra Resource"
+msgstr ""
+
+#: inc/ovacrs-cart.php:365 templates/ovacrs-custom-fields.php:58
+msgid "Number Plate"
+msgstr ""
+
+#: inc/ovacrs-cart.php:404
+msgid "Extra Resource: "
+msgstr ""
+
+#: inc/ovacrs-contact-tab.php:11
+msgid "Request for booking"
+msgstr ""
+
+#: inc/ovacrs-contact-tab.php:27
+msgid "Send your requirement to us. We will check email and contact you soon."
+msgstr ""
+
+#: inc/ovacrs-contact-tab.php:29 shortcodes/shortcodes.php:1031
+msgid "This field is required."
+msgstr ""
+
+#: inc/ovacrs-contact-tab.php:35 templates/ovacrs_other_feature_field.php:4
+#: templates/ovacrs_other_features.php:6 templates/ovacrs_other_features.php:20
+#: templates/ovacrs_resources.php:7
+msgid "Name"
+msgstr ""
+
+#: inc/ovacrs-contact-tab.php:36
+msgid "John Doe"
+msgstr ""
+
+#: inc/ovacrs-contact-tab.php:40
+msgid "Email"
+msgstr ""
+
+#: inc/ovacrs-contact-tab.php:41
+msgid "sample@yourcompany.com"
+msgstr ""
+
+#: inc/ovacrs-contact-tab.php:46 shortcodes/vc_shortcodes.php:670
+msgid "Number"
+msgstr ""
+
+#: inc/ovacrs-contact-tab.php:47
+msgid "+66-4545688"
+msgstr ""
+
+#: inc/ovacrs-contact-tab.php:53 inc/ovacrs-contact-tab.php:54
+msgid "Address"
+msgstr ""
+
+#: inc/ovacrs-contact-tab.php:104
+msgid "Extra Service"
+msgstr ""
+
+#: inc/ovacrs-contact-tab.php:123 inc/ovacrs_filters.php:25
+#: inc/ovacrs_filters.php:27 templates/ovacrs_global_discount.php:34
+#: templates/ovacrs_global_discount.php:61 templates/ovacrs_rt_discount.php:17
+msgid "Hour(s)"
+msgstr ""
+
+#: inc/ovacrs-contact-tab.php:125 inc/ovacrs_filters.php:23
+#: inc/ovacrs_filters.php:29 templates/ovacrs_global_discount.php:35
+#: templates/ovacrs_global_discount.php:62 templates/ovacrs_rt_discount.php:18
+msgid "Day(s)"
+msgstr ""
+
+#: inc/ovacrs-contact-tab.php:127
+msgid "Total"
+msgstr ""
+
+#: inc/ovacrs-contact-tab.php:146
+msgid "Extra Information"
+msgstr ""
+
+#: inc/ovacrs-contact-tab.php:156
+msgid "Send"
+msgstr ""
+
+#: inc/ovacrs-get-data.php:117 inc/ovacrs-get-data.php:137
+msgid " 24:00"
+msgstr ""
+
+#: inc/ovacrs-get-data.php:124 inc/ovacrs-get-data.php:144
+msgid "00:00 "
+msgstr ""
+
+#: inc/ovacrs-get-data.php:163
+msgid "00:00 24:00 "
+msgstr ""
+
+#: inc/ovacrs-get-data.php:411
+msgid "Select Location"
+msgstr ""
+
+#: inc/ovacrs-get-data.php:427 inc/ovacrs-get-data.php:478
+msgid "Request For Booking"
+msgstr ""
+
+#: inc/ovacrs-get-data.php:431
+msgid "Name: "
+msgstr ""
+
+#: inc/ovacrs-get-data.php:432
+msgid "Email: "
+msgstr ""
+
+#: inc/ovacrs-get-data.php:435
+msgid "Phone: "
+msgstr ""
+
+#: inc/ovacrs-get-data.php:439
+msgid "Address: "
+msgstr ""
+
+#: inc/ovacrs-get-data.php:443
+msgid "Pick-up Location: "
+msgstr ""
+
+#: inc/ovacrs-get-data.php:447
+msgid "Drop-off Location: "
+msgstr ""
+
+#: inc/ovacrs-get-data.php:451
+msgid "Pick-up Date: "
+msgstr ""
+
+#: inc/ovacrs-get-data.php:452
+msgid "Drop-off Date: "
+msgstr ""
+
+#: inc/ovacrs-get-data.php:456
+msgid "Resource: "
+msgstr ""
+
+#: inc/ovacrs-get-data.php:463
+msgid "Extra: "
+msgstr ""
+
+#: inc/ovacrs-get-data.php:508
+msgid "All Categories"
+msgstr ""
+
+#: inc/ovacrs-get-data.php:537 inc/ovacrs-taxonomy.php:13
+msgid "All Type"
+msgstr ""
+
+#: inc/ovacrs-taxonomy.php:10
+msgid "Types"
+msgstr ""
+
+#: inc/ovacrs-taxonomy.php:11
+msgid "type"
+msgstr ""
+
+#: inc/ovacrs-taxonomy.php:12
+msgid "Search Types"
+msgstr ""
+
+#: inc/ovacrs-taxonomy.php:14
+msgid "Parent Type"
+msgstr ""
+
+#: inc/ovacrs-taxonomy.php:15
+msgid "Parent Type:"
+msgstr ""
+
+#: inc/ovacrs-taxonomy.php:16
+msgid "Edit Type"
+msgstr ""
+
+#: inc/ovacrs-taxonomy.php:17
+msgid "Update Type"
+msgstr ""
+
+#: inc/ovacrs-taxonomy.php:18
+msgid "Add New Type"
+msgstr ""
+
+#: inc/ovacrs-taxonomy.php:19
+msgid "New Type Name"
+msgstr ""
+
+#: inc/ovacrs-taxonomy.php:20 shortcodes/shortcodes.php:1062
+msgid "Type"
+msgstr ""
+
+#: inc/ovacrs_filters.php:7
+msgid " Pick-up Location "
+msgstr ""
+
+#: inc/ovacrs_filters.php:8
+msgid " Drop-off Location "
+msgstr ""
+
+#: inc/ovacrs_filters.php:9
+msgid " Pick-up date "
+msgstr ""
+
+#: inc/ovacrs_filters.php:10
+msgid " Drop-off date "
+msgstr ""
+
+#: inc/ovacrs_filters.php:11
+msgid " Total Days "
+msgstr ""
+
+#: inc/ovacrs_filters.php:12
+msgid " Price Detail "
+msgstr ""
+
+#: inc/ovacrs_filters.php:36 inc/ovacrs_filters.php:42
+msgid "Regular Day(s)"
+msgstr ""
+
+#: inc/ovacrs_filters.php:38 inc/ovacrs_filters.php:40
+msgid "Regular Hour(s)"
+msgstr ""
+
+#: inc/ovacrs_filters.php:49 inc/ovacrs_filters.php:55
+msgid "Special Day(s)"
+msgstr ""
+
+#: inc/ovacrs_filters.php:51 inc/ovacrs_filters.php:53
+msgid "Special Hour(s)"
+msgstr ""
+
+#: ovacrs-templates/search.php:54 ovacrs-templates/search.php:60
+#: shortcodes/shortcodes.php:534 shortcodes/shortcodes.php:540
+msgid "/ Day"
+msgstr ""
+
+#: ovacrs-templates/search.php:57 shortcodes/shortcodes.php:537
+msgid "/ Hour"
+msgstr ""
+
+#: ovacrs-templates/search.php:68
+msgid "Rent It"
+msgstr ""
+
+#: ovacrs-templates/search.php:88 shortcodes/shortcodes.php:567
+msgid " reviews"
+msgstr ""
+
+#: ovacrs-templates/search.php:223
+msgid "Not Found"
+msgstr ""
+
+#: ovacrs-templates/search.php:230
+msgid "Not Found Vehicle"
+msgstr ""
+
+#: shortcodes/shortcodes.php:121
+msgid "My Cart"
+msgstr ""
+
+#: shortcodes/shortcodes.php:184
+msgid "Welcome "
+msgstr ""
+
+#: shortcodes/shortcodes.php:208
+msgid "Search for:"
+msgstr ""
+
+#: shortcodes/shortcodes.php:276
+msgid "logo"
+msgstr ""
+
+#: shortcodes/shortcodes.php:482 shortcodes/shortcodes.php:628
+msgid "Available"
+msgstr ""
+
+#: shortcodes/shortcodes.php:482 shortcodes/shortcodes.php:628
+msgid "items"
+msgstr ""
+
+#: shortcodes/shortcodes.php:1057
+msgid "Category"
+msgstr ""
+
+#: shortcodes/shortcodes.php:1071
+msgid "Find Our More"
+msgstr ""
+
+#: shortcodes/shortcodes.php:1115
+msgid "No categories"
+msgstr ""
+
+#: shortcodes/vc_shortcodes.php:10
+msgid "Info"
+msgstr ""
+
+#: shortcodes/vc_shortcodes.php:13 shortcodes/vc_shortcodes.php:47
+#: shortcodes/vc_shortcodes.php:122 shortcodes/vc_shortcodes.php:150
+#: shortcodes/vc_shortcodes.php:438 shortcodes/vc_shortcodes.php:483
+#: shortcodes/vc_shortcodes.php:531 shortcodes/vc_shortcodes.php:588
+#: shortcodes/vc_shortcodes.php:662 shortcodes/vc_shortcodes.php:729
+#: shortcodes/vc_shortcodes.php:810 shortcodes/vc_shortcodes.php:876
+msgid "IRECA"
+msgstr ""
+
+#: shortcodes/vc_shortcodes.php:21 shortcodes/vc_shortcodes.php:55
+msgid "Icon"
+msgstr ""
+
+#: shortcodes/vc_shortcodes.php:28
+msgid "Text"
+msgstr ""
+
+#: shortcodes/vc_shortcodes.php:35 shortcodes/vc_shortcodes.php:111
+#: shortcodes/vc_shortcodes.php:137 shortcodes/vc_shortcodes.php:427
+#: shortcodes/vc_shortcodes.php:472 shortcodes/vc_shortcodes.php:520
+#: shortcodes/vc_shortcodes.php:577 shortcodes/vc_shortcodes.php:649
+#: shortcodes/vc_shortcodes.php:713 shortcodes/vc_shortcodes.php:796
+#: shortcodes/vc_shortcodes.php:851 shortcodes/vc_shortcodes.php:936
+msgid "Class"
+msgstr ""
+
+#: shortcodes/vc_shortcodes.php:44
+msgid "Service"
+msgstr ""
+
+#: shortcodes/vc_shortcodes.php:62 shortcodes/vc_shortcodes.php:446
+#: shortcodes/vc_shortcodes.php:491 shortcodes/vc_shortcodes.php:539
+#: shortcodes/vc_shortcodes.php:596 shortcodes/vc_shortcodes.php:677
+#: shortcodes/vc_shortcodes.php:893
+msgid "Title"
+msgstr ""
+
+#: shortcodes/vc_shortcodes.php:69
+msgid "Link title"
+msgstr ""
+
+#: shortcodes/vc_shortcodes.php:77 shortcodes/vc_shortcodes.php:924
+msgid "Target"
+msgstr ""
+
+#: shortcodes/vc_shortcodes.php:80 shortcodes/vc_shortcodes.php:628
+#: shortcodes/vc_shortcodes.php:704 shortcodes/vc_shortcodes.php:927
+msgid "Same Window"
+msgstr ""
+
+#: shortcodes/vc_shortcodes.php:81 shortcodes/vc_shortcodes.php:629
+#: shortcodes/vc_shortcodes.php:705 shortcodes/vc_shortcodes.php:928
+msgid "New Window"
+msgstr ""
+
+#: shortcodes/vc_shortcodes.php:91 shortcodes/vc_shortcodes.php:453
+#: shortcodes/vc_shortcodes.php:513 shortcodes/vc_shortcodes.php:546
+#: shortcodes/vc_shortcodes.php:685 shortcodes/vc_shortcodes.php:843
+#: shortcodes/vc_shortcodes.php:900 templates/ovacrs_feature_field.php:12
+#: templates/ovacrs_features.php:8 templates/ovacrs_features.php:34
+msgid "Description"
+msgstr ""
+
+#: shortcodes/vc_shortcodes.php:98
+msgid "Show line"
+msgstr ""
+
+#: shortcodes/vc_shortcodes.php:101 shortcodes/vc_shortcodes.php:224
+#: shortcodes/vc_shortcodes.php:309 shortcodes/vc_shortcodes.php:341
+#: shortcodes/vc_shortcodes.php:353 shortcodes/vc_shortcodes.php:365
+#: shortcodes/vc_shortcodes.php:379 shortcodes/vc_shortcodes.php:392
+#: shortcodes/vc_shortcodes.php:405 shortcodes/vc_shortcodes.php:417
+#: shortcodes/vc_shortcodes.php:556 templates/ovacrs_feature_field.php:17
+#: templates/ovacrs_features.php:39
+msgid "Yes"
+msgstr ""
+
+#: shortcodes/vc_shortcodes.php:102 shortcodes/vc_shortcodes.php:225
+#: shortcodes/vc_shortcodes.php:310 shortcodes/vc_shortcodes.php:342
+#: shortcodes/vc_shortcodes.php:354 shortcodes/vc_shortcodes.php:366
+#: shortcodes/vc_shortcodes.php:380 shortcodes/vc_shortcodes.php:393
+#: shortcodes/vc_shortcodes.php:406 shortcodes/vc_shortcodes.php:418
+#: shortcodes/vc_shortcodes.php:557 templates/ovacrs_feature_field.php:18
+#: templates/ovacrs_features.php:40
+msgid "No"
+msgstr ""
+
+#: shortcodes/vc_shortcodes.php:119
+msgid "Divide"
+msgstr ""
+
+#: shortcodes/vc_shortcodes.php:130
+msgid "Logo"
+msgstr ""
+
+#: shortcodes/vc_shortcodes.php:147
+msgid "Product Filter"
+msgstr ""
+
+#: shortcodes/vc_shortcodes.php:151
+msgid "Filter by Category"
+msgstr ""
+
+#: shortcodes/vc_shortcodes.php:159
+msgid "Slug Category"
+msgstr ""
+
+#: shortcodes/vc_shortcodes.php:167
+msgid "Tab Active"
+msgstr ""
+
+#: shortcodes/vc_shortcodes.php:168
+msgid "Insert Slug of Category"
+msgstr ""
+
+#: shortcodes/vc_shortcodes.php:177
+msgid "Show Products"
+msgstr ""
+
+#: shortcodes/vc_shortcodes.php:178
+msgid ""
+"For Renting: you have to choose Product data is Car Rental.  For Selling: "
+"You can choose Any Product data except Car Rental."
+msgstr ""
+
+#: shortcodes/vc_shortcodes.php:181
+msgid "For Renting"
+msgstr ""
+
+#: shortcodes/vc_shortcodes.php:182
+msgid "For Selling"
+msgstr ""
+
+#: shortcodes/vc_shortcodes.php:183
+msgid "Both (Rent, Sell) "
+msgstr ""
+
+#: shortcodes/vc_shortcodes.php:192
+msgid "Order By"
+msgstr ""
+
+#: shortcodes/vc_shortcodes.php:193
+msgid ""
+"Custom Order: You have to insert number in \"Order at frontend\" Field of "
+"product"
+msgstr ""
+
+#: shortcodes/vc_shortcodes.php:196
+msgid "ID"
+msgstr ""
+
+#: shortcodes/vc_shortcodes.php:197
+msgid "Custom Order"
+msgstr ""
+
+#: shortcodes/vc_shortcodes.php:198
+msgid "Total Sales"
+msgstr ""
+
+#: shortcodes/vc_shortcodes.php:199
+msgid "Rating"
+msgstr ""
+
+#: shortcodes/vc_shortcodes.php:207
+msgid "Order"
+msgstr ""
+
+#: shortcodes/vc_shortcodes.php:210
+msgid "Decrease"
+msgstr ""
+
+#: shortcodes/vc_shortcodes.php:211
+msgid "Ascending"
+msgstr ""
+
+#: shortcodes/vc_shortcodes.php:221
+msgid "Show Category Tab"
+msgstr ""
+
+#: shortcodes/vc_shortcodes.php:234
+msgid "Align Navigation (tab)"
+msgstr ""
+
+#: shortcodes/vc_shortcodes.php:237
+msgid "Right"
+msgstr ""
+
+#: shortcodes/vc_shortcodes.php:238
+msgid "Center"
+msgstr ""
+
+#: shortcodes/vc_shortcodes.php:239
+msgid "Left"
+msgstr ""
+
+#: shortcodes/vc_shortcodes.php:248
+msgid "Style Box Item"
+msgstr ""
+
+#: shortcodes/vc_shortcodes.php:251 shortcodes/vc_shortcodes.php:463
+msgid "Style 1"
+msgstr ""
+
+#: shortcodes/vc_shortcodes.php:252 shortcodes/vc_shortcodes.php:464
+msgid "Style 2"
+msgstr ""
+
+#: shortcodes/vc_shortcodes.php:261
+msgid "Total columns in each slide"
+msgstr ""
+
+#: shortcodes/vc_shortcodes.php:264
+msgid "2 items"
+msgstr ""
+
+#: shortcodes/vc_shortcodes.php:265
+msgid "3 items"
+msgstr ""
+
+#: shortcodes/vc_shortcodes.php:266
+msgid "4 items"
+msgstr ""
+
+#: shortcodes/vc_shortcodes.php:275
+msgid "Total items in each column"
+msgstr ""
+
+#: shortcodes/vc_shortcodes.php:276
+msgid "Insert interger"
+msgstr ""
+
+#: shortcodes/vc_shortcodes.php:285
+msgid "Total items in each category"
+msgstr ""
+
+#: shortcodes/vc_shortcodes.php:286
+msgid "Insert interger. Insert -1 to display all items in category"
+msgstr ""
+
+#: shortcodes/vc_shortcodes.php:295 shortcodes/vc_shortcodes.php:611
+msgid "Button Text"
+msgstr ""
+
+#: shortcodes/vc_shortcodes.php:306
+msgid "Show Navigation"
+msgstr ""
+
+#: shortcodes/vc_shortcodes.php:319
+msgid "Icon at Navigation"
+msgstr ""
+
+#: shortcodes/vc_shortcodes.php:320
+msgid "Insert Font Class "
+msgstr ""
+
+#: shortcodes/vc_shortcodes.php:328
+msgid "Auto Slide"
+msgstr ""
+
+#: shortcodes/vc_shortcodes.php:329
+msgid ""
+"Insert false : not auto . Insert number integer (ms) for auto. Example 5000 "
+msgstr ""
+
+#: shortcodes/vc_shortcodes.php:338
+msgid "Show Thumbnail"
+msgstr ""
+
+#: shortcodes/vc_shortcodes.php:350
+msgid "Show Price"
+msgstr ""
+
+#: shortcodes/vc_shortcodes.php:362
+msgid "Show Time Rental (/Day, /Hour)"
+msgstr ""
+
+#: shortcodes/vc_shortcodes.php:376
+msgid "Show Title"
+msgstr ""
+
+#: shortcodes/vc_shortcodes.php:389
+msgid "Show Rating Star"
+msgstr ""
+
+#: shortcodes/vc_shortcodes.php:402
+msgid "Show Rating text"
+msgstr ""
+
+#: shortcodes/vc_shortcodes.php:414
+msgid "Show Feature"
+msgstr ""
+
+#: shortcodes/vc_shortcodes.php:435
+msgid "Heading 1"
+msgstr ""
+
+#: shortcodes/vc_shortcodes.php:460
+msgid "Style"
+msgstr ""
+
+#: shortcodes/vc_shortcodes.php:480
+msgid "Heading 2"
+msgstr ""
+
+#: shortcodes/vc_shortcodes.php:498
+msgid "Highlight title"
+msgstr ""
+
+#: shortcodes/vc_shortcodes.php:505
+msgid "Highlight icon"
+msgstr ""
+
+#: shortcodes/vc_shortcodes.php:506
+msgid "Insert icon font"
+msgstr ""
+
+#: shortcodes/vc_shortcodes.php:528
+msgid "Text Support"
+msgstr ""
+
+#: shortcodes/vc_shortcodes.php:553
+msgid "Show Bold Line"
+msgstr ""
+
+#: shortcodes/vc_shortcodes.php:565 shortcodes/vc_shortcodes.php:637
+msgid "Text color"
+msgstr ""
+
+#: shortcodes/vc_shortcodes.php:568 shortcodes/vc_shortcodes.php:640
+msgid "Dark"
+msgstr ""
+
+#: shortcodes/vc_shortcodes.php:569 shortcodes/vc_shortcodes.php:641
+msgid "White"
+msgstr ""
+
+#: shortcodes/vc_shortcodes.php:585
+msgid "Button Action"
+msgstr ""
+
+#: shortcodes/vc_shortcodes.php:603
+msgid "Phone"
+msgstr ""
+
+#: shortcodes/vc_shortcodes.php:618
+msgid "Button Link"
+msgstr ""
+
+#: shortcodes/vc_shortcodes.php:625
+msgid "Button Target"
+msgstr ""
+
+#: shortcodes/vc_shortcodes.php:659
+msgid "Why"
+msgstr ""
+
+#: shortcodes/vc_shortcodes.php:692
+msgid "Link Title"
+msgstr ""
+
+#: shortcodes/vc_shortcodes.php:701
+msgid "Target link"
+msgstr ""
+
+#: shortcodes/vc_shortcodes.php:726
+msgid "Testimonial"
+msgstr ""
+
+#: shortcodes/vc_shortcodes.php:743
+msgid "Count item each slide"
+msgstr ""
+
+#: shortcodes/vc_shortcodes.php:752
+msgid "Auto slider"
+msgstr ""
+
+#: shortcodes/vc_shortcodes.php:755 shortcodes/vc_shortcodes.php:775
+#: shortcodes/vc_shortcodes.php:787
+msgid "True"
+msgstr ""
+
+#: shortcodes/vc_shortcodes.php:756 shortcodes/vc_shortcodes.php:776
+#: shortcodes/vc_shortcodes.php:788
+msgid "False"
+msgstr ""
+
+#: shortcodes/vc_shortcodes.php:764
+msgid "Duration of slider(ms). 1000ms = 1s"
+msgstr ""
+
+#: shortcodes/vc_shortcodes.php:772
+msgid "Pagination"
+msgstr ""
+
+#: shortcodes/vc_shortcodes.php:784
+msgid "Loop"
+msgstr ""
+
+#: shortcodes/vc_shortcodes.php:799 shortcodes/vc_shortcodes.php:854
+#: shortcodes/vc_shortcodes.php:939
+msgid "Insert class to use for your style"
+msgstr ""
+
+#: shortcodes/vc_shortcodes.php:807
+msgid "Testimonial Item"
+msgstr ""
+
+#: shortcodes/vc_shortcodes.php:822 shortcodes/vc_shortcodes.php:886
+msgid "Image"
+msgstr ""
+
+#: shortcodes/vc_shortcodes.php:829
+msgid "name"
+msgstr ""
+
+#: shortcodes/vc_shortcodes.php:836
+msgid "job"
+msgstr ""
+
+#: shortcodes/vc_shortcodes.php:873
+msgid "Thumbnail Info"
+msgstr ""
+
+#: shortcodes/vc_shortcodes.php:907
+msgid "Icon font"
+msgstr ""
+
+#: shortcodes/vc_shortcodes.php:914
+msgid "Link"
+msgstr ""
+
+#: templates/ovacrs-custom-fields.php:15
+msgid "Regular price / Hour"
+msgstr ""
+
+#: templates/ovacrs-custom-fields.php:18
+msgid "Regular price by hour"
+msgstr ""
+
+#: templates/ovacrs-custom-fields.php:28
+msgid "Price Type"
+msgstr ""
+
+#: templates/ovacrs-custom-fields.php:31
+msgid "Rent by Hour, Day, or Mixed (Hour and Day)"
+msgstr ""
+
+#: templates/ovacrs-custom-fields.php:33
+msgid "Mixed (Day and Hour)"
+msgstr ""
+
+#: templates/ovacrs-custom-fields.php:34
+msgid "Hour"
+msgstr ""
+
+#: templates/ovacrs-custom-fields.php:35
+msgid "Day"
+msgstr ""
+
+#: templates/ovacrs-custom-fields.php:45
+msgid "Inventory Vehicle"
+msgstr ""
+
+#: templates/ovacrs-custom-fields.php:48
+msgid "Total number of vehicles in the store"
+msgstr ""
+
+#: templates/ovacrs-custom-fields.php:61
+msgid ""
+"If Total Vehicle is 3, you have to insert 3 number plate like: 1V, 2V, 3V . "
+"Note number plate is unique"
+msgstr ""
+
+#: templates/ovacrs-custom-fields.php:74
+msgid "Order at frontend"
+msgstr ""
+
+#: templates/ovacrs-custom-fields.php:77
+msgid "Use in some elements"
+msgstr ""
+
+#: templates/ovacrs-custom-fields.php:84
+msgid "Video"
+msgstr ""
+
+#: templates/ovacrs-custom-fields.php:89
+msgid "Youtute Link"
+msgstr ""
+
+#: templates/ovacrs-custom-fields.php:90
+msgid "https://www.youtube.com/watch?v=YTT62UdAILs&t=3s"
+msgstr ""
+
+#: templates/ovacrs-custom-fields.php:91
+msgid ""
+"Insert youtube link like: https://www.youtube.com/watch?v=YTT62UdAILs&t=3s"
+msgstr ""
+
+#: templates/ovacrs-custom-fields.php:102
+msgid "Features"
+msgstr ""
+
+#: templates/ovacrs-custom-fields.php:108
+msgid "Other Features"
+msgstr ""
+
+#: templates/ovacrs-custom-fields.php:117
+msgid "Setup price by rent duration (PD)"
+msgstr ""
+
+#: templates/ovacrs-custom-fields.php:125
+msgid "Special Time (ST)"
+msgstr ""
+
+#: templates/ovacrs-custom-fields.php:126
+msgid "Note: ST doesnt use PD, it will use PST"
+msgstr ""
+
+#: templates/ovacrs-custom-fields.php:134
+msgid "Resources"
+msgstr ""
+
+#: templates/ovacrs-custom-fields.php:141
+msgid "Unavailable Time (UT)"
+msgstr ""
+
+#: templates/ovacrs-custom-fields.php:147
+msgid "Rent Time Min"
+msgstr ""
+
+#: templates/ovacrs_deter_rent_day.php:2
+msgid "1 day = 24 hours"
+msgstr ""
+
+#: templates/ovacrs_feature_field.php:4 templates/ovacrs_features.php:26
+msgid "Font-Awesome"
+msgstr ""
+
+#: templates/ovacrs_feature_field.php:8 templates/ovacrs_features.php:7
+#: templates/ovacrs_features.php:30
+msgid "Label"
+msgstr ""
+
+#: templates/ovacrs_features.php:6
+msgid "Icon Class"
+msgstr ""
+
+#: templates/ovacrs_features.php:9
+msgid "Special Feature"
+msgstr ""
+
+#: templates/ovacrs_features.php:62
+msgid "Add Feature"
+msgstr ""
+
+#: templates/ovacrs_global_discount.php:6 templates/ovacrs_resources.php:8
+#: templates/ovacrs_rt.php:53 templates/ovacrs_rt_record.php:24
+msgid "Price ($)"
+msgstr ""
+
+#: templates/ovacrs_global_discount.php:7 templates/ovacrs_resources.php:9
+#: templates/ovacrs_rt.php:54 templates/ovacrs_rt_record.php:25
+msgid "Duration"
+msgstr ""
+
+#: templates/ovacrs_global_discount.php:23
+#: templates/ovacrs_global_discount.php:52 templates/ovacrs_rt.php:65
+#: templates/ovacrs_rt_discount.php:6
+msgid "Price"
+msgstr ""
+
+#: templates/ovacrs_global_discount.php:29
+#: templates/ovacrs_global_discount.php:58 templates/ovacrs_rt_discount.php:12
+msgid "Insert number"
+msgstr ""
+
+#: templates/ovacrs_global_discount.php:73
+msgid "Add PD"
+msgstr ""
+
+#: templates/ovacrs_location.php:12
+msgid "Avaiable in"
+msgstr ""
+
+#: templates/ovacrs_other_features.php:41
+msgid "Add Other Feature"
+msgstr ""
+
+#: templates/ovacrs_rent_time_min.php:8
+msgid "Rent Day Min"
+msgstr ""
+
+#: templates/ovacrs_rent_time_min.php:9 templates/ovacrs_rent_time_min.php:20
+msgid "1"
+msgstr ""
+
+#: templates/ovacrs_rent_time_min.php:19
+msgid "Rent Hour Min"
+msgstr ""
+
+#: templates/ovacrs_resources.php:6
+msgid "Unique ID"
+msgstr ""
+
+#: templates/ovacrs_resources.php:30 templates/ovacrs_resources_field.php:4
+msgid "Not space"
+msgstr ""
+
+#: templates/ovacrs_resources.php:44 templates/ovacrs_resources_field.php:19
+msgid "/Hours"
+msgstr ""
+
+#: templates/ovacrs_resources.php:45 templates/ovacrs_resources_field.php:20
+msgid "/Days"
+msgstr ""
+
+#: templates/ovacrs_resources.php:46 templates/ovacrs_resources_field.php:21
+msgid "/Total"
+msgstr ""
+
+#: templates/ovacrs_resources.php:68
+msgid "Add Resources"
+msgstr ""
+
+#: templates/ovacrs_rt.php:6
+msgid "Price/Day ($)"
+msgstr ""
+
+#: templates/ovacrs_rt.php:7
+msgid "Price/Hour ($)"
+msgstr ""
+
+#: templates/ovacrs_rt.php:8 templates/ovacrs_untime.php:6
+msgid "Start Date"
+msgstr ""
+
+#: templates/ovacrs_rt.php:9 templates/ovacrs_untime.php:7
+msgid "End Date"
+msgstr ""
+
+#: templates/ovacrs_rt.php:10
+msgid "Setup Price in Special Time (PST)"
+msgstr ""
+
+#: templates/ovacrs_rt.php:32 templates/ovacrs_rt_record.php:4
+msgid "Price/Day"
+msgstr ""
+
+#: templates/ovacrs_rt.php:36 templates/ovacrs_rt_record.php:8
+msgid "Price/Hour"
+msgstr ""
+
+#: templates/ovacrs_rt.php:40 templates/ovacrs_rt_record.php:12
+#: templates/ovacrs_untime.php:22 templates/ovacrs_untime_field.php:4
+msgid "From YYYY-MM-DD ..."
+msgstr ""
+
+#: templates/ovacrs_rt.php:44 templates/ovacrs_rt_record.php:16
+#: templates/ovacrs_untime.php:26 templates/ovacrs_untime_field.php:8
+msgid "End YYYY-MM-DD ..."
+msgstr ""
+
+#: templates/ovacrs_rt.php:93 templates/ovacrs_rt_record.php:38
+msgid "Add PST"
+msgstr ""
+
+#: templates/ovacrs_rt.php:123
+msgid "Add ST"
+msgstr ""
+
+#: templates/ovacrs_untime.php:47
+msgid "Add UT"
+msgstr ""
+
+#: widgets/register_wd.php:8
+msgid "Header 1 Top Left"
+msgstr ""
+
+#: widgets/register_wd.php:19
+msgid "Header 1 Top Center"
+msgstr ""
+
+#: widgets/register_wd.php:31
+msgid "Header 1 Top Right"
+msgstr ""
+
+#: widgets/register_wd.php:43
+msgid "Header 1 Beside Logo"
+msgstr ""
+
+#: widgets/register_wd.php:54
+msgid "Header 1 Cart"
+msgstr ""
+
+#: widgets/register_wd.php:65
+msgid "Header 1 home icon"
+msgstr ""
+
+#: widgets/register_wd.php:76
+msgid "Header 1 Search"
+msgstr ""
+
+#: widgets/register_wd.php:89
+msgid "Header 2 Left Logo"
+msgstr ""
+
+#: widgets/register_wd.php:100
+msgid "Header 2 Right Logo"
+msgstr ""
+
+#: widgets/register_wd.php:112
+msgid "Header 3 Info"
+msgstr ""
+
+#: widgets/register_wd.php:123
+msgid "Header 3 Cart"
+msgstr ""
+
+#: widgets/register_wd.php:134
+msgid "Header 3 Search"
+msgstr ""
+
+#: widgets/register_wd.php:146
+msgid "Header 4 Phone"
+msgstr ""
+
+#: widgets/register_wd.php:158
+msgid "Header 4 Social"
+msgstr ""
+
+#: widgets/register_wd.php:170
+msgid "Header 4 cart"
+msgstr ""
+
+#: widgets/register_wd.php:182
+msgid "Header Default Top Left"
+msgstr ""
+
+#: widgets/register_wd.php:193
+msgid "Header Default Top Right"
+msgstr ""
+
+#: widgets/register_wd.php:204
+msgid "Header Default Cart"
+msgstr ""
+
+#: widgets/register_wd.php:220 widgets/register_wd.php:222
+msgid "Woocommerce Sidebar"
+msgstr ""
+
+#: widgets/register_wd.php:233 widgets/register_wd.php:235
+msgid "Rental Sidebar"
+msgstr ""
+
+#: widgets/register_wd.php:246
+msgid "FAQ Sidebar"
+msgstr ""
+
+#: widgets/register_wd.php:260
+msgid "Footer Info"
+msgstr ""
+
+#: widgets/register_wd.php:271
+msgid "Footer Column 1"
+msgstr ""
+
+#: widgets/register_wd.php:282
+msgid "Footer Column 2"
+msgstr ""
+
+#: widgets/register_wd.php:293
+msgid "Footer Column 3"
+msgstr ""
+
+#: widgets/register_wd.php:304
+msgid "Footer Column 4"
+msgstr ""
+
+#: widgets/register_wd.php:315
+msgid "Footer Social"
+msgstr ""

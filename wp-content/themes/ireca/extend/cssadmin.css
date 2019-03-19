@@ -1,0 +1,11 @@
+div#setting-error-tgmpa.update-nag.settings-error.notice.is-dismissible,
+.wp-core-ui .notice.is-dismissible,
+.update-nag.notice.is-dismissible,
+#setting-error-tgmpa{
+	width: 96%!important;
+}
+
+body.wp-admin.post-type-product .cmb2-id-ireca-met-main-layout,
+body.wp-admin.post-type-product .cmb2-id-ireca-met-width-site{
+	display: none!important;
+}

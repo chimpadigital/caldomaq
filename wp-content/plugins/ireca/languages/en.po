@@ -1,0 +1,1054 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ovatheme Ireca Plugin\n"
+"POT-Creation-Date: 2018-08-10 11:43+0700\n"
+"PO-Revision-Date: 2018-08-10 11:43+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.5\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x;esc_html;esc_html_e;esc_html__;esc_attr;"
+"esc_attr_e;esc_attr__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: ireca.php:53
+msgid ""
+"Elementor Hello World is not working because you are using an old version of "
+"Elementor."
+msgstr ""
+
+#: ireca.php:54
+msgid "Update Elementor Now"
+msgstr ""
+
+#: ireca.php:70
+msgid "Ovatheme"
+msgstr ""
+
+#: widgets/ovacrs_about_info.php:41
+msgid "About Info"
+msgstr ""
+
+#: widgets/ovacrs_about_info.php:104 widgets/ovacrs_blog.php:123
+#: widgets/ovacrs_btn_action.php:103 widgets/ovacrs_contact_box.php:103
+#: widgets/ovacrs_divide.php:105 widgets/ovacrs_heading1.php:104
+#: widgets/ovacrs_heading1.php:120 widgets/ovacrs_heading2.php:104
+#: widgets/ovacrs_heading2.php:120 widgets/ovacrs_heading3.php:104
+#: widgets/ovacrs_heading3.php:120 widgets/ovacrs_heading4.php:104
+#: widgets/ovacrs_heading4.php:120 widgets/ovacrs_img_skew.php:105
+#: widgets/ovacrs_info.php:103 widgets/ovacrs_product_filter.php:107
+#: widgets/ovacrs_product_slider.php:107 widgets/ovacrs_service.php:105
+#: widgets/ovacrs_service.php:154 widgets/ovacrs_service_card.php:106
+#: widgets/ovacrs_service_full.php:104 widgets/ovacrs_service_item.php:105
+#: widgets/ovacrs_service_repair.php:105 widgets/ovacrs_skill.php:103
+#: widgets/ovacrs_team.php:105 widgets/ovacrs_team.php:169
+#: widgets/ovacrs_testimonial.php:105 widgets/ovacrs_testimonial.php:165
+#: widgets/ovacrs_text_support.php:103 widgets/ovacrs_text_support.php:118
+#: widgets/ovacrs_thumbnail_info.php:105 widgets/ovacrs_thumbnail_info.php:146
+#: widgets/ovacrs_video_popup.php:104 widgets/ovacrs_why.php:103
+#: widgets/ovacrs_why.php:127 widgets/sample.php:103
+msgid "Content"
+msgstr ""
+
+#: widgets/ovacrs_about_info.php:111 widgets/ovacrs_about_info.php:113
+#: widgets/ovacrs_btn_action.php:110 widgets/ovacrs_contact_box.php:119
+#: widgets/ovacrs_heading1.php:111 widgets/ovacrs_heading1.php:113
+#: widgets/ovacrs_heading2.php:111 widgets/ovacrs_heading2.php:113
+#: widgets/ovacrs_heading3.php:111 widgets/ovacrs_heading3.php:113
+#: widgets/ovacrs_heading4.php:111 widgets/ovacrs_heading4.php:113
+#: widgets/ovacrs_img_skew.php:112 widgets/ovacrs_img_skew.php:114
+#: widgets/ovacrs_info.php:110 widgets/ovacrs_info.php:112
+#: widgets/ovacrs_service.php:112 widgets/ovacrs_service_card.php:139
+#: widgets/ovacrs_service_full.php:111 widgets/ovacrs_service_full.php:162
+#: widgets/ovacrs_service_item.php:112 widgets/ovacrs_service_repair.php:112
+#: widgets/ovacrs_text_support.php:110 widgets/ovacrs_thumbnail_info.php:124
+#: widgets/ovacrs_why.php:110 widgets/sample.php:110
+msgid "Title"
+msgstr ""
+
+#: widgets/ovacrs_about_info.php:120 widgets/ovacrs_skill.php:110
+#: widgets/ovacrs_why.php:118
+msgid "Number"
+msgstr ""
+
+#: widgets/ovacrs_about_info.php:122
+msgid "1,109"
+msgstr ""
+
+#: widgets/ovacrs_about_info.php:131 widgets/ovacrs_heading1.php:143
+#: widgets/ovacrs_heading3.php:129 widgets/ovacrs_img_skew.php:133
+msgid "Align"
+msgstr ""
+
+#: widgets/ovacrs_about_info.php:135 widgets/ovacrs_heading1.php:147
+#: widgets/ovacrs_heading3.php:133 widgets/ovacrs_product_filter.php:337
+#: widgets/ovacrs_product_slider.php:348
+msgid "Center"
+msgstr ""
+
+#: widgets/ovacrs_about_info.php:136 widgets/ovacrs_heading1.php:148
+#: widgets/ovacrs_heading3.php:134 widgets/ovacrs_img_skew.php:137
+#: widgets/ovacrs_product_filter.php:338 widgets/ovacrs_product_slider.php:349
+msgid "Left"
+msgstr ""
+
+#: widgets/ovacrs_about_info.php:137 widgets/ovacrs_heading1.php:149
+#: widgets/ovacrs_heading3.php:135 widgets/ovacrs_img_skew.php:138
+#: widgets/ovacrs_product_filter.php:336 widgets/ovacrs_product_slider.php:347
+msgid "Right"
+msgstr ""
+
+#: widgets/ovacrs_about_info.php:147 widgets/ovacrs_blog.php:282
+#: widgets/ovacrs_btn_action.php:186 widgets/ovacrs_contact_box.php:176
+#: widgets/ovacrs_divide.php:125 widgets/ovacrs_heading1.php:172
+#: widgets/ovacrs_heading2.php:151 widgets/ovacrs_heading3.php:158
+#: widgets/ovacrs_heading4.php:143 widgets/ovacrs_img_skew.php:175
+#: widgets/ovacrs_info.php:178 widgets/ovacrs_product_filter.php:206
+#: widgets/ovacrs_product_slider.php:212 widgets/ovacrs_service.php:205
+#: widgets/ovacrs_service_card.php:193 widgets/ovacrs_service_full.php:202
+#: widgets/ovacrs_service_full.php:217 widgets/ovacrs_service_item.php:161
+#: widgets/ovacrs_service_repair.php:163 widgets/ovacrs_skill.php:153
+#: widgets/ovacrs_team.php:201 widgets/ovacrs_team.php:297
+#: widgets/ovacrs_testimonial.php:172 widgets/ovacrs_testimonial.php:273
+#: widgets/ovacrs_text_support.php:157 widgets/ovacrs_thumbnail_info.php:190
+#: widgets/ovacrs_video_popup.php:155 widgets/ovacrs_why.php:175
+#: widgets/sample.php:118
+msgid "Class"
+msgstr ""
+
+#: widgets/ovacrs_blog.php:41
+msgid "Blog"
+msgstr ""
+
+#: widgets/ovacrs_blog.php:130 widgets/ovacrs_product_slider.php:119
+msgid "Category"
+msgstr ""
+
+#: widgets/ovacrs_blog.php:139
+msgid "Total Post"
+msgstr ""
+
+#: widgets/ovacrs_blog.php:148
+msgid "Show thumbnail"
+msgstr ""
+
+#: widgets/ovacrs_blog.php:152 widgets/ovacrs_blog.php:166
+#: widgets/ovacrs_blog.php:180 widgets/ovacrs_blog.php:196
+#: widgets/ovacrs_blog.php:212 widgets/ovacrs_blog.php:226
+#: widgets/ovacrs_btn_action.php:174 widgets/ovacrs_contact_box.php:163
+#: widgets/ovacrs_heading1.php:163 widgets/ovacrs_heading3.php:149
+#: widgets/ovacrs_product_filter.php:321 widgets/ovacrs_product_filter.php:376
+#: widgets/ovacrs_product_filter.php:401 widgets/ovacrs_product_filter.php:426
+#: widgets/ovacrs_product_filter.php:452 widgets/ovacrs_product_filter.php:467
+#: widgets/ovacrs_product_filter.php:482 widgets/ovacrs_product_filter.php:497
+#: widgets/ovacrs_product_filter.php:512 widgets/ovacrs_product_filter.php:527
+#: widgets/ovacrs_product_filter.php:542 widgets/ovacrs_product_filter.php:558
+#: widgets/ovacrs_product_slider.php:237 widgets/ovacrs_product_slider.php:251
+#: widgets/ovacrs_product_slider.php:266 widgets/ovacrs_product_slider.php:281
+#: widgets/ovacrs_product_slider.php:308 widgets/ovacrs_product_slider.php:332
+#: widgets/ovacrs_product_slider.php:363 widgets/ovacrs_product_slider.php:377
+#: widgets/ovacrs_product_slider.php:402 widgets/ovacrs_product_slider.php:416
+#: widgets/ovacrs_product_slider.php:431 widgets/ovacrs_service.php:193
+#: widgets/ovacrs_service_card.php:129 widgets/ovacrs_text_support.php:131
+#: widgets/ovacrs_video_popup.php:144 widgets/ovacrs_why.php:164
+msgid "Yes"
+msgstr ""
+
+#: widgets/ovacrs_blog.php:153 widgets/ovacrs_blog.php:167
+#: widgets/ovacrs_blog.php:181 widgets/ovacrs_blog.php:197
+#: widgets/ovacrs_blog.php:213 widgets/ovacrs_blog.php:227
+#: widgets/ovacrs_btn_action.php:175 widgets/ovacrs_contact_box.php:164
+#: widgets/ovacrs_heading1.php:162 widgets/ovacrs_heading3.php:148
+#: widgets/ovacrs_product_filter.php:322 widgets/ovacrs_product_filter.php:377
+#: widgets/ovacrs_product_filter.php:402 widgets/ovacrs_product_filter.php:425
+#: widgets/ovacrs_product_filter.php:453 widgets/ovacrs_product_filter.php:468
+#: widgets/ovacrs_product_filter.php:483 widgets/ovacrs_product_filter.php:498
+#: widgets/ovacrs_product_filter.php:513 widgets/ovacrs_product_filter.php:528
+#: widgets/ovacrs_product_filter.php:543 widgets/ovacrs_product_filter.php:559
+#: widgets/ovacrs_product_slider.php:236 widgets/ovacrs_product_slider.php:252
+#: widgets/ovacrs_product_slider.php:267 widgets/ovacrs_product_slider.php:282
+#: widgets/ovacrs_product_slider.php:309 widgets/ovacrs_product_slider.php:333
+#: widgets/ovacrs_product_slider.php:364 widgets/ovacrs_product_slider.php:378
+#: widgets/ovacrs_product_slider.php:401 widgets/ovacrs_product_slider.php:417
+#: widgets/ovacrs_product_slider.php:430 widgets/ovacrs_text_support.php:132
+#: widgets/ovacrs_video_popup.php:145 widgets/ovacrs_why.php:165
+msgid "No"
+msgstr ""
+
+#: widgets/ovacrs_blog.php:162 widgets/ovacrs_product_slider.php:373
+msgid "Show title"
+msgstr ""
+
+#: widgets/ovacrs_blog.php:176
+msgid "Show Description"
+msgstr ""
+
+#: widgets/ovacrs_blog.php:192
+msgid "Show date"
+msgstr ""
+
+#: widgets/ovacrs_blog.php:208
+msgid "Show category"
+msgstr ""
+
+#: widgets/ovacrs_blog.php:222
+msgid "Show comment"
+msgstr ""
+
+#: widgets/ovacrs_blog.php:237
+msgid "Read more text"
+msgstr ""
+
+#: widgets/ovacrs_blog.php:239
+msgid "Read More"
+msgstr ""
+
+#: widgets/ovacrs_blog.php:246
+msgid "View All Text"
+msgstr ""
+
+#: widgets/ovacrs_blog.php:248
+msgid "View All Posts"
+msgstr ""
+
+#: widgets/ovacrs_blog.php:256
+msgid "View All Link"
+msgstr ""
+
+#: widgets/ovacrs_blog.php:258
+msgid "#"
+msgstr ""
+
+#: widgets/ovacrs_blog.php:265 widgets/ovacrs_heading1.php:129
+#: widgets/ovacrs_service.php:175 widgets/ovacrs_skill.php:138
+msgid "Style"
+msgstr ""
+
+#: widgets/ovacrs_blog.php:269 widgets/ovacrs_heading1.php:133
+#: widgets/ovacrs_product_filter.php:230 widgets/ovacrs_product_filter.php:352
+#: widgets/ovacrs_service.php:179
+msgid "Style 1"
+msgstr ""
+
+#: widgets/ovacrs_blog.php:270 widgets/ovacrs_heading1.php:134
+#: widgets/ovacrs_product_filter.php:231 widgets/ovacrs_product_filter.php:353
+#: widgets/ovacrs_service.php:180
+msgid "Style 2"
+msgstr ""
+
+#: widgets/ovacrs_blog.php:357 widgets/ovacrs_blog.php:410
+#: widgets/ovacrs_blog.php:463
+msgid "comment"
+msgstr ""
+
+#: widgets/ovacrs_blog.php:357 widgets/ovacrs_blog.php:410
+#: widgets/ovacrs_blog.php:463
+msgid "comments"
+msgstr ""
+
+#: widgets/ovacrs_btn_action.php:41
+msgid "Button Action"
+msgstr ""
+
+#: widgets/ovacrs_btn_action.php:118 widgets/ovacrs_img_skew.php:157
+msgid "Phone"
+msgstr ""
+
+#: widgets/ovacrs_btn_action.php:126
+msgid "Button Text"
+msgstr ""
+
+#: widgets/ovacrs_btn_action.php:134
+msgid "Button Link"
+msgstr ""
+
+#: widgets/ovacrs_btn_action.php:142 widgets/ovacrs_thumbnail_info.php:172
+msgid "Button Target"
+msgstr ""
+
+#: widgets/ovacrs_btn_action.php:146 widgets/ovacrs_info.php:168
+#: widgets/ovacrs_service.php:133 widgets/ovacrs_service_card.php:178
+#: widgets/ovacrs_service_item.php:133 widgets/ovacrs_service_repair.php:133
+#: widgets/ovacrs_team.php:190 widgets/ovacrs_thumbnail_info.php:176
+#: widgets/ovacrs_why.php:150
+msgid "Same Window"
+msgstr ""
+
+#: widgets/ovacrs_btn_action.php:147 widgets/ovacrs_info.php:169
+#: widgets/ovacrs_service.php:134 widgets/ovacrs_service_card.php:179
+#: widgets/ovacrs_service_item.php:134 widgets/ovacrs_service_repair.php:134
+#: widgets/ovacrs_team.php:191 widgets/ovacrs_thumbnail_info.php:177
+#: widgets/ovacrs_why.php:151
+msgid "New Window"
+msgstr ""
+
+#: widgets/ovacrs_btn_action.php:156 widgets/ovacrs_text_support.php:141
+msgid "Text color"
+msgstr ""
+
+#: widgets/ovacrs_btn_action.php:160 widgets/ovacrs_info.php:137
+#: widgets/ovacrs_skill.php:142 widgets/ovacrs_text_support.php:145
+msgid "Dark"
+msgstr ""
+
+#: widgets/ovacrs_btn_action.php:161 widgets/ovacrs_info.php:138
+#: widgets/ovacrs_skill.php:143 widgets/ovacrs_text_support.php:146
+msgid "White"
+msgstr ""
+
+#: widgets/ovacrs_btn_action.php:170
+msgid "Show Left Border"
+msgstr ""
+
+#: widgets/ovacrs_contact_box.php:41
+msgid "Contact Box"
+msgstr ""
+
+#: widgets/ovacrs_contact_box.php:110
+msgid "Icon"
+msgstr ""
+
+#: widgets/ovacrs_contact_box.php:121
+msgid "working hours"
+msgstr ""
+
+#: widgets/ovacrs_contact_box.php:128
+msgid "Items"
+msgstr ""
+
+#: widgets/ovacrs_contact_box.php:132 widgets/ovacrs_contact_box.php:145
+msgid "Mon: 13:00-18:00"
+msgstr ""
+
+#: widgets/ovacrs_contact_box.php:133 widgets/ovacrs_contact_box.php:137
+#: widgets/ovacrs_contact_box.php:143 widgets/ovacrs_team.php:137
+#: widgets/ovacrs_testimonial.php:133
+msgid "Name"
+msgstr ""
+
+#: widgets/ovacrs_contact_box.php:136
+msgid "Tue, Wed, Fri & Sat: 09:00-18:00"
+msgstr ""
+
+#: widgets/ovacrs_contact_box.php:159 widgets/ovacrs_info.php:119
+#: widgets/ovacrs_service.php:163 widgets/ovacrs_text_support.php:127
+msgid "Show line"
+msgstr ""
+
+#: widgets/ovacrs_divide.php:42
+msgid "Divide"
+msgstr ""
+
+#: widgets/ovacrs_divide.php:114
+msgid "Choose Logo Image"
+msgstr ""
+
+#: widgets/ovacrs_divide.php:150
+msgid "logo"
+msgstr ""
+
+#: widgets/ovacrs_heading1.php:41
+msgid "Heading 1"
+msgstr ""
+
+#: widgets/ovacrs_heading1.php:122 widgets/ovacrs_heading2.php:122
+#: widgets/ovacrs_heading3.php:122 widgets/ovacrs_heading4.php:122
+msgid "Sub Title"
+msgstr ""
+
+#: widgets/ovacrs_heading1.php:158 widgets/ovacrs_heading3.php:144
+msgid "Show border at title"
+msgstr ""
+
+#: widgets/ovacrs_heading2.php:41
+msgid "Heading 2"
+msgstr ""
+
+#: widgets/ovacrs_heading2.php:131 widgets/ovacrs_heading4.php:131
+msgid "Highlight title"
+msgstr ""
+
+#: widgets/ovacrs_heading2.php:139 widgets/ovacrs_service.php:145
+#: widgets/ovacrs_service_item.php:143 widgets/ovacrs_service_repair.php:143
+#: widgets/ovacrs_thumbnail_info.php:155
+msgid "Icon Font"
+msgstr ""
+
+#: widgets/ovacrs_heading2.php:153
+msgid "Insert style2 to make large icon"
+msgstr ""
+
+#: widgets/ovacrs_heading3.php:41
+msgid "Heading 3"
+msgstr ""
+
+#: widgets/ovacrs_heading4.php:41
+msgid "Heading 4"
+msgstr ""
+
+#: widgets/ovacrs_img_skew.php:42
+msgid "Image Skew"
+msgstr ""
+
+#: widgets/ovacrs_img_skew.php:121 widgets/ovacrs_service_card.php:114
+#: widgets/ovacrs_service_full.php:129 widgets/ovacrs_team.php:157
+#: widgets/ovacrs_testimonial.php:153 widgets/ovacrs_video_popup.php:119
+msgid "Image"
+msgstr ""
+
+#: widgets/ovacrs_img_skew.php:148 widgets/ovacrs_info.php:147
+#: widgets/ovacrs_info.php:149 widgets/ovacrs_service_card.php:148
+#: widgets/ovacrs_service_full.php:182 widgets/ovacrs_service_repair.php:152
+#: widgets/ovacrs_skill.php:120
+msgid "Description"
+msgstr ""
+
+#: widgets/ovacrs_img_skew.php:150
+msgid "For more information, please contact hotline"
+msgstr ""
+
+#: widgets/ovacrs_img_skew.php:159
+msgid "54-344-4533-4"
+msgstr ""
+
+#: widgets/ovacrs_img_skew.php:166
+msgid "Mail"
+msgstr ""
+
+#: widgets/ovacrs_img_skew.php:168
+msgid "email@company.com"
+msgstr ""
+
+#: widgets/ovacrs_info.php:41
+msgid "Info"
+msgstr ""
+
+#: widgets/ovacrs_info.php:123 widgets/ovacrs_team.php:249
+#: widgets/ovacrs_team.php:273 widgets/ovacrs_team.php:287
+#: widgets/ovacrs_testimonial.php:220 widgets/ovacrs_testimonial.php:244
+#: widgets/ovacrs_testimonial.php:258
+msgid "True"
+msgstr ""
+
+#: widgets/ovacrs_info.php:124 widgets/ovacrs_team.php:250
+#: widgets/ovacrs_team.php:274 widgets/ovacrs_team.php:288
+#: widgets/ovacrs_testimonial.php:221 widgets/ovacrs_testimonial.php:245
+#: widgets/ovacrs_testimonial.php:259
+msgid "False"
+msgstr ""
+
+#: widgets/ovacrs_info.php:133
+msgid "Color"
+msgstr ""
+
+#: widgets/ovacrs_info.php:156 widgets/ovacrs_service.php:121
+#: widgets/ovacrs_service_card.php:166 widgets/ovacrs_service_full.php:172
+#: widgets/ovacrs_service_item.php:121 widgets/ovacrs_service_repair.php:121
+#: widgets/ovacrs_team.php:176 widgets/ovacrs_thumbnail_info.php:163
+#: widgets/ovacrs_why.php:138
+msgid "Link"
+msgstr ""
+
+#: widgets/ovacrs_info.php:164 widgets/ovacrs_service.php:129
+#: widgets/ovacrs_service_card.php:174 widgets/ovacrs_service_item.php:129
+#: widgets/ovacrs_service_repair.php:129 widgets/ovacrs_team.php:186
+#: widgets/ovacrs_why.php:146
+msgid "Target"
+msgstr ""
+
+#: widgets/ovacrs_product_filter.php:41
+msgid "Product Filter"
+msgstr ""
+
+#: widgets/ovacrs_product_filter.php:114
+msgid "Slug Category"
+msgstr ""
+
+#: widgets/ovacrs_product_filter.php:115 widgets/ovacrs_product_slider.php:130
+msgid "Example: "
+msgstr ""
+
+#: widgets/ovacrs_product_filter.php:123
+msgid "Active Category"
+msgstr ""
+
+#: widgets/ovacrs_product_filter.php:124 widgets/ovacrs_product_slider.php:140
+msgid "Insert Slug of Category"
+msgstr ""
+
+#: widgets/ovacrs_product_filter.php:132 widgets/ovacrs_product_slider.php:149
+msgid "Filter"
+msgstr ""
+
+#: widgets/ovacrs_product_filter.php:136 widgets/ovacrs_product_slider.php:153
+msgid "For Renting"
+msgstr ""
+
+#: widgets/ovacrs_product_filter.php:137 widgets/ovacrs_product_slider.php:154
+msgid "For Selling"
+msgstr ""
+
+#: widgets/ovacrs_product_filter.php:138 widgets/ovacrs_product_slider.php:155
+msgid "Both (Rent, Sell)"
+msgstr ""
+
+#: widgets/ovacrs_product_filter.php:148 widgets/ovacrs_product_slider.php:165
+msgid "Order by"
+msgstr ""
+
+#: widgets/ovacrs_product_filter.php:152 widgets/ovacrs_product_slider.php:169
+msgid "Custom Order"
+msgstr ""
+
+#: widgets/ovacrs_product_filter.php:153 widgets/ovacrs_product_slider.php:170
+msgid "ID"
+msgstr ""
+
+#: widgets/ovacrs_product_filter.php:154 widgets/ovacrs_product_slider.php:171
+msgid "Total Sales"
+msgstr ""
+
+#: widgets/ovacrs_product_filter.php:155 widgets/ovacrs_product_slider.php:172
+msgid "Rating"
+msgstr ""
+
+#: widgets/ovacrs_product_filter.php:164 widgets/ovacrs_product_slider.php:181
+msgid "Order"
+msgstr ""
+
+#: widgets/ovacrs_product_filter.php:168 widgets/ovacrs_product_slider.php:185
+msgid "Decrease"
+msgstr ""
+
+#: widgets/ovacrs_product_filter.php:169 widgets/ovacrs_product_slider.php:186
+msgid "Ascending"
+msgstr ""
+
+#: widgets/ovacrs_product_filter.php:179 widgets/ovacrs_product_slider.php:196
+msgid "Total items in each category"
+msgstr ""
+
+#: widgets/ovacrs_product_filter.php:181
+msgid "Insert -1 to display all items in a category"
+msgstr ""
+
+#: widgets/ovacrs_product_filter.php:194
+msgid "Auto Slide"
+msgstr ""
+
+#: widgets/ovacrs_product_filter.php:196
+msgid ""
+"Insert false : not auto . Insert number integer (ms) for auto. Example 5000 "
+msgstr ""
+
+#: widgets/ovacrs_product_filter.php:219 widgets/ovacrs_product_slider.php:225
+msgid "Product Settings"
+msgstr ""
+
+#: widgets/ovacrs_product_filter.php:226
+msgid "Product Style"
+msgstr ""
+
+#: widgets/ovacrs_product_filter.php:232
+msgid "Style 3"
+msgstr ""
+
+#: widgets/ovacrs_product_filter.php:233
+msgid "Style 4"
+msgstr ""
+
+#: widgets/ovacrs_product_filter.php:242
+msgid "Total columns in each slide"
+msgstr ""
+
+#: widgets/ovacrs_product_filter.php:246
+msgid "2 items"
+msgstr ""
+
+#: widgets/ovacrs_product_filter.php:247
+msgid "3 items"
+msgstr ""
+
+#: widgets/ovacrs_product_filter.php:248
+msgid "4 items"
+msgstr ""
+
+#: widgets/ovacrs_product_filter.php:257
+msgid "Total items in each column"
+msgstr ""
+
+#: widgets/ovacrs_product_filter.php:267
+msgid "Width each Feature"
+msgstr ""
+
+#: widgets/ovacrs_product_filter.php:297
+msgid "Button Text when hover price"
+msgstr ""
+
+#: widgets/ovacrs_product_filter.php:299
+msgid "Rent it"
+msgstr ""
+
+#: widgets/ovacrs_product_filter.php:310 widgets/ovacrs_product_slider.php:321
+msgid "Tab Settings"
+msgstr ""
+
+#: widgets/ovacrs_product_filter.php:317 widgets/ovacrs_product_slider.php:328
+msgid "Show tab"
+msgstr ""
+
+#: widgets/ovacrs_product_filter.php:332 widgets/ovacrs_product_slider.php:343
+msgid "Align Tab"
+msgstr ""
+
+#: widgets/ovacrs_product_filter.php:348
+msgid "Style Tab"
+msgstr ""
+
+#: widgets/ovacrs_product_filter.php:365
+msgid "Navigation Settings"
+msgstr ""
+
+#: widgets/ovacrs_product_filter.php:372 widgets/ovacrs_product_slider.php:397
+msgid "Show Navigation"
+msgstr ""
+
+#: widgets/ovacrs_product_filter.php:387
+msgid "Icon at Navigation"
+msgstr ""
+
+#: widgets/ovacrs_product_filter.php:389
+msgid "Insert Font Class"
+msgstr ""
+
+#: widgets/ovacrs_product_filter.php:397
+msgid "Show available total items"
+msgstr ""
+
+#: widgets/ovacrs_product_filter.php:414
+msgid "Dots Navigation Settings"
+msgstr ""
+
+#: widgets/ovacrs_product_filter.php:421
+msgid "Show Dots Navigation"
+msgstr ""
+
+#: widgets/ovacrs_product_filter.php:440
+msgid "Show/Hide Field"
+msgstr ""
+
+#: widgets/ovacrs_product_filter.php:448
+msgid "Show Thumbnail"
+msgstr ""
+
+#: widgets/ovacrs_product_filter.php:463 widgets/ovacrs_product_slider.php:247
+msgid "Show Price"
+msgstr ""
+
+#: widgets/ovacrs_product_filter.php:478 widgets/ovacrs_product_slider.php:262
+msgid "Show Time Rental (/Day, /Hour)"
+msgstr ""
+
+#: widgets/ovacrs_product_filter.php:493 widgets/ovacrs_product_slider.php:277
+msgid "Show Title"
+msgstr ""
+
+#: widgets/ovacrs_product_filter.php:508
+msgid "Show Rating Star"
+msgstr ""
+
+#: widgets/ovacrs_product_filter.php:523
+msgid "Show Rating Text"
+msgstr ""
+
+#: widgets/ovacrs_product_filter.php:538
+msgid "Show Attribute"
+msgstr ""
+
+#: widgets/ovacrs_product_filter.php:554
+msgid "Show Feature"
+msgstr ""
+
+#: widgets/ovacrs_product_filter.php:746 widgets/ovacrs_product_filter.php:1326
+msgid "Available"
+msgstr ""
+
+#: widgets/ovacrs_product_filter.php:746 widgets/ovacrs_product_filter.php:1326
+msgid "items"
+msgstr ""
+
+#: widgets/ovacrs_product_filter.php:808 widgets/ovacrs_product_filter.php:814
+#: widgets/ovacrs_product_filter.php:942 widgets/ovacrs_product_filter.php:948
+#: widgets/ovacrs_product_filter.php:1060
+#: widgets/ovacrs_product_filter.php:1066
+#: widgets/ovacrs_product_filter.php:1195
+#: widgets/ovacrs_product_filter.php:1201 widgets/ovacrs_product_slider.php:655
+#: widgets/ovacrs_product_slider.php:661
+msgid "/ Day"
+msgstr ""
+
+#: widgets/ovacrs_product_filter.php:811 widgets/ovacrs_product_filter.php:945
+#: widgets/ovacrs_product_filter.php:1063
+#: widgets/ovacrs_product_filter.php:1198 widgets/ovacrs_product_slider.php:658
+msgid "/ Hour"
+msgstr ""
+
+#: widgets/ovacrs_product_filter.php:847 widgets/ovacrs_product_filter.php:972
+#: widgets/ovacrs_product_filter.php:1099
+#: widgets/ovacrs_product_filter.php:1225
+msgid " reviews"
+msgstr ""
+
+#: widgets/ovacrs_product_slider.php:41
+msgid "Product Slider"
+msgstr ""
+
+#: widgets/ovacrs_product_slider.php:114
+msgid "Search By"
+msgstr ""
+
+#: widgets/ovacrs_product_slider.php:118
+msgid "Type"
+msgstr ""
+
+#: widgets/ovacrs_product_slider.php:121
+msgid ""
+"Type: Find in Products >> Type <br/> Category: Find in Products >> "
+"Categories "
+msgstr ""
+
+#: widgets/ovacrs_product_slider.php:129
+msgid "Slug Category/Type"
+msgstr ""
+
+#: widgets/ovacrs_product_slider.php:132 widgets/ovacrs_product_slider.php:142
+msgid ""
+"Type: Find Slug column in Products >> Type <br/> Category: Find in Products "
+">> Categories "
+msgstr ""
+
+#: widgets/ovacrs_product_slider.php:139
+msgid "Active Category/Type"
+msgstr ""
+
+#: widgets/ovacrs_product_slider.php:198
+msgid "Insert -1 to display all items in category"
+msgstr ""
+
+#: widgets/ovacrs_product_slider.php:232
+msgid "Always Show Price, Title"
+msgstr ""
+
+#: widgets/ovacrs_product_slider.php:292
+msgid "Total main slide in Slide"
+msgstr ""
+
+#: widgets/ovacrs_product_slider.php:304
+msgid "Allow a part image at left, right of slide"
+msgstr ""
+
+#: widgets/ovacrs_product_slider.php:359
+msgid "Show Image"
+msgstr ""
+
+#: widgets/ovacrs_product_slider.php:390
+msgid "Slider Settings"
+msgstr ""
+
+#: widgets/ovacrs_product_slider.php:412
+msgid "Show Dots"
+msgstr ""
+
+#: widgets/ovacrs_product_slider.php:426
+msgid "Autoplay"
+msgstr ""
+
+#: widgets/ovacrs_product_slider.php:440
+msgid "Autoplay Speed (ms)"
+msgstr ""
+
+#: widgets/ovacrs_product_slider.php:442
+msgid "Example: 3000 (ms)"
+msgstr ""
+
+#: widgets/ovacrs_service.php:41
+msgid "Service"
+msgstr ""
+
+#: widgets/ovacrs_service.php:114
+msgid "Car Support"
+msgstr ""
+
+#: widgets/ovacrs_service.php:156
+msgid ""
+"I am text block. Click edit button to change this text. Lorem ipsum dolor "
+"sit amet, consectetur adipiscing elit."
+msgstr ""
+
+#: widgets/ovacrs_service.php:165
+msgid "Show"
+msgstr ""
+
+#: widgets/ovacrs_service.php:166
+msgid "Hide"
+msgstr ""
+
+#: widgets/ovacrs_service.php:189
+msgid "Show border"
+msgstr ""
+
+#: widgets/ovacrs_service.php:194 widgets/ovacrs_service_card.php:130
+msgid "no"
+msgstr ""
+
+#: widgets/ovacrs_service_card.php:42
+msgid "Service Card"
+msgstr ""
+
+#: widgets/ovacrs_service_card.php:125
+msgid "Skew Image"
+msgstr ""
+
+#: widgets/ovacrs_service_card.php:141
+msgid "Business rental"
+msgstr ""
+
+#: widgets/ovacrs_service_card.php:150
+msgid ""
+"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium "
+"doloremque "
+msgstr ""
+
+#: widgets/ovacrs_service_card.php:157
+msgid "Text"
+msgstr ""
+
+#: widgets/ovacrs_service_full.php:42
+msgid "Service Full"
+msgstr ""
+
+#: widgets/ovacrs_service_full.php:113
+msgid "Our services"
+msgstr ""
+
+#: widgets/ovacrs_service_full.php:120
+msgid "Sub title"
+msgstr ""
+
+#: widgets/ovacrs_service_full.php:122
+msgid "We provide best services"
+msgstr ""
+
+#: widgets/ovacrs_service_full.php:140 widgets/ovacrs_service_item.php:41
+msgid "Service Item"
+msgstr ""
+
+#: widgets/ovacrs_service_full.php:144 widgets/ovacrs_service_full.php:151
+#: widgets/ovacrs_service_full.php:164
+msgid "OIL CHANGES"
+msgstr ""
+
+#: widgets/ovacrs_service_full.php:146 widgets/ovacrs_service_full.php:153
+#: widgets/ovacrs_service_full.php:184
+msgid ""
+"Voluptatem perspiciatis sed ut unde omnis iste natus error sit acantium "
+"dolore"
+msgstr ""
+
+#: widgets/ovacrs_service_full.php:192
+msgid "Icon font"
+msgstr ""
+
+#: widgets/ovacrs_service_full.php:194
+msgid "carflaticon-car-oil"
+msgstr ""
+
+#: widgets/ovacrs_service_item.php:114
+msgid "Variety of Car Brands"
+msgstr ""
+
+#: widgets/ovacrs_service_item.php:152
+msgid "Background Color"
+msgstr ""
+
+#: widgets/ovacrs_service_repair.php:41
+msgid "Service Repair"
+msgstr ""
+
+#: widgets/ovacrs_service_repair.php:114
+msgid "Oil Changes"
+msgstr ""
+
+#: widgets/ovacrs_service_repair.php:154
+msgid ""
+"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium "
+"doloremque"
+msgstr ""
+
+#: widgets/ovacrs_skill.php:41
+msgid "Skill"
+msgstr ""
+
+#: widgets/ovacrs_skill.php:122
+msgid "New Motor For Sale"
+msgstr ""
+
+#: widgets/ovacrs_skill.php:129
+msgid "Speed Time (ms)"
+msgstr ""
+
+#: widgets/ovacrs_team.php:42
+msgid "Team"
+msgstr ""
+
+#: widgets/ovacrs_team.php:112
+msgid "Team Items"
+msgstr ""
+
+#: widgets/ovacrs_team.php:116 widgets/ovacrs_team.php:125
+#: widgets/ovacrs_team.php:139 widgets/ovacrs_testimonial.php:116
+#: widgets/ovacrs_testimonial.php:123 widgets/ovacrs_testimonial.php:135
+msgid "Tony Chester"
+msgstr ""
+
+#: widgets/ovacrs_team.php:117 widgets/ovacrs_team.php:126
+#: widgets/ovacrs_team.php:149 widgets/ovacrs_testimonial.php:118
+#: widgets/ovacrs_testimonial.php:125 widgets/ovacrs_testimonial.php:145
+msgid "Web Developer"
+msgstr ""
+
+#: widgets/ovacrs_team.php:118 widgets/ovacrs_team.php:127
+#: widgets/ovacrs_team.php:171
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod "
+"tempor incididunt ut labore et dolore magna aliqua."
+msgstr ""
+
+#: widgets/ovacrs_team.php:147 widgets/ovacrs_testimonial.php:143
+msgid "Job"
+msgstr ""
+
+#: widgets/ovacrs_team.php:217 widgets/ovacrs_testimonial.php:188
+msgid "Desktop: Total item each slide"
+msgstr ""
+
+#: widgets/ovacrs_team.php:226 widgets/ovacrs_testimonial.php:197
+msgid "Ipad: Total item each slide"
+msgstr ""
+
+#: widgets/ovacrs_team.php:235 widgets/ovacrs_testimonial.php:206
+msgid "Mobile: Total item each slide"
+msgstr ""
+
+#: widgets/ovacrs_team.php:245 widgets/ovacrs_testimonial.php:216
+msgid "Auto Slider"
+msgstr ""
+
+#: widgets/ovacrs_team.php:259 widgets/ovacrs_testimonial.php:230
+msgid "Duration"
+msgstr ""
+
+#: widgets/ovacrs_team.php:261 widgets/ovacrs_testimonial.php:232
+msgid "Duration of slider(ms). 1000ms = 1s"
+msgstr ""
+
+#: widgets/ovacrs_team.php:269
+msgid "Dots Pagination"
+msgstr ""
+
+#: widgets/ovacrs_team.php:283 widgets/ovacrs_testimonial.php:254
+msgid "Loop"
+msgstr ""
+
+#: widgets/ovacrs_testimonial.php:42
+msgid "Testimonial"
+msgstr ""
+
+#: widgets/ovacrs_testimonial.php:112
+msgid "Testimonial Items"
+msgstr ""
+
+#: widgets/ovacrs_testimonial.php:117 widgets/ovacrs_testimonial.php:124
+msgid ""
+"I am item content. Click edit button to change this text. Lorem ipsum dolor "
+"sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec "
+"ullamcorper mattis, pulvinar dapibus leo."
+msgstr ""
+
+#: widgets/ovacrs_testimonial.php:167
+msgid "Desciption"
+msgstr ""
+
+#: widgets/ovacrs_testimonial.php:240
+msgid "Pagination"
+msgstr ""
+
+#: widgets/ovacrs_text_support.php:41
+msgid "Text Support"
+msgstr ""
+
+#: widgets/ovacrs_thumbnail_info.php:43
+msgid "Thumbnail Info"
+msgstr ""
+
+#: widgets/ovacrs_thumbnail_info.php:112
+msgid "Image Background"
+msgstr ""
+
+#: widgets/ovacrs_thumbnail_info.php:126
+msgid "Are you looking for a car?"
+msgstr ""
+
+#: widgets/ovacrs_thumbnail_info.php:133
+msgid "Padding"
+msgstr ""
+
+#: widgets/ovacrs_thumbnail_info.php:148
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod "
+"tempor incididunt ut labore et dolore"
+msgstr ""
+
+#: widgets/ovacrs_video_popup.php:42
+msgid "Video Popup"
+msgstr ""
+
+#: widgets/ovacrs_video_popup.php:111
+msgid "Link Youtube"
+msgstr ""
+
+#: widgets/ovacrs_video_popup.php:132
+msgid "Alt Image"
+msgstr ""
+
+#: widgets/ovacrs_video_popup.php:140
+msgid "Display Popup"
+msgstr ""
+
+#: widgets/ovacrs_why.php:41
+msgid "Why"
+msgstr ""
+
+#: widgets/ovacrs_why.php:112
+msgid "Financing Made Easy"
+msgstr ""
+
+#: widgets/ovacrs_why.php:129
+msgid ""
+"Our stress-free finance department that can find financial solutions to save "
+"you money."
+msgstr ""
+
+#: widgets/ovacrs_why.php:160
+msgid "Show Border"
+msgstr ""
+
+#: widgets/sample.php:41
+msgid "Hello World"
+msgstr ""

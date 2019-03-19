@@ -1,0 +1,1595 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Ireca\n"
+"POT-Creation-Date: 2018-08-22 11:07+0700\n"
+"PO-Revision-Date: 2018-08-10 10:55+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.5\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x;esc_html__;esc_html_e;esc_html;esc_attr;"
+"esc_attr__;esc_attr_x\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: comments.php:12
+msgid "0 Comments"
+msgstr ""
+
+#: comments.php:12
+msgid "1 Comment"
+msgstr ""
+
+#: comments.php:12
+msgid "% Comments"
+msgstr ""
+
+#: comments.php:27
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:28
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:29
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:34
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:43
+msgid "Leave a reply"
+msgstr ""
+
+#: comments.php:45 woocommerce/single-product-reviews.php:81
+msgid "Name"
+msgstr ""
+
+#: comments.php:46 woocommerce/single-product-reviews.php:83
+msgid "Email"
+msgstr ""
+
+#: comments.php:47
+msgid "Website"
+msgstr ""
+
+#: comments.php:51
+msgid "Your Comment ..."
+msgstr ""
+
+#: comments.php:53
+msgid "Submit Comment"
+msgstr ""
+
+#: content/content-none.php:3
+msgid "Nothing Found"
+msgstr ""
+
+#: content/content-none.php:9
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: content/content-none.php:13
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: content/content-none.php:18
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: content/content-page.php:8 content/define_blocks_content.php:98
+msgid "Pages:"
+msgstr ""
+
+#: content/content-page.php:12
+msgid "Page"
+msgstr ""
+
+#: content/content-post.php:142
+msgid "Posted by"
+msgstr ""
+
+#: content/content-post.php:167
+msgid "You may also like"
+msgstr ""
+
+#: content/define_blocks_content.php:80
+msgid " 0 comment"
+msgstr ""
+
+#: content/define_blocks_content.php:81
+msgid " 1 comment"
+msgstr ""
+
+#: content/define_blocks_content.php:84
+msgid "Comment off"
+msgstr ""
+
+#: content/define_blocks_content.php:118
+msgid "Read more"
+msgstr ""
+
+#: content/define_blocks_content.php:130
+msgid "Tags "
+msgstr ""
+
+#: content/define_blocks_content.php:139
+msgid "Share: "
+msgstr ""
+
+#: content/define_blocks_content.php:210
+msgid "&nbsp;(Edit)"
+msgstr ""
+
+#: content/define_blocks_content.php:225
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: extend/active_plugins.php:60
+msgid "Contact Form 7"
+msgstr ""
+
+#: extend/active_plugins.php:65
+msgid "Woocommerce"
+msgstr ""
+
+#: extend/active_plugins.php:70
+msgid "Widget importer exporter"
+msgstr ""
+
+#: extend/active_plugins.php:76
+msgid "Recent posts widget"
+msgstr ""
+
+#: extend/active_plugins.php:83
+msgid "Mailchimp for wp"
+msgstr ""
+
+#: extend/active_plugins.php:89
+msgid "Metabox"
+msgstr ""
+
+#: extend/active_plugins.php:94
+msgid "Elementor"
+msgstr ""
+
+#: extend/active_plugins.php:99
+msgid "One click demo import"
+msgstr ""
+
+#: extend/active_plugins.php:104
+msgid "Taxonomy Images"
+msgstr ""
+
+#: extend/active_plugins.php:110
+msgid "OvaTheme Ireca"
+msgstr ""
+
+#: extend/active_plugins.php:116
+msgid "OvaTheme CRS"
+msgstr ""
+
+#: extend/active_plugins.php:122
+msgid "Slider Revolution"
+msgstr ""
+
+#: extend/add_js_css.php:497 extend/add_js_css.php:498
+msgid "on"
+msgstr ""
+
+#: extend/breadcrumbs.php:9
+msgid "Home"
+msgstr ""
+
+#: extend/breadcrumbs.php:45
+msgid "Archive by date"
+msgstr ""
+
+#: extend/breadcrumbs.php:50
+msgid "Archive by month"
+msgstr ""
+
+#: extend/breadcrumbs.php:54
+msgid "Archive by year"
+msgstr ""
+
+#: extend/breadcrumbs.php:69
+msgid "Search results for"
+msgstr ""
+
+#: extend/breadcrumbs.php:106
+msgid "Archive by tag"
+msgstr ""
+
+#: extend/breadcrumbs.php:110
+msgid "Articles posted by"
+msgstr ""
+
+#: extend/breadcrumbs.php:112 framework/init.php:699
+msgid "Blog"
+msgstr ""
+
+#: extend/breadcrumbs.php:114
+msgid "You got it Error 404 not Found"
+msgstr ""
+
+#: extend/customizer.php:13
+msgid "Typography setting"
+msgstr ""
+
+#: extend/customizer.php:33
+msgid "Body font"
+msgstr ""
+
+#: extend/customizer.php:56
+msgid "Heading font"
+msgstr ""
+
+#: extend/customizer.php:76
+msgid "Main color"
+msgstr ""
+
+#: extend/customizer.php:96
+msgid "Second color"
+msgstr ""
+
+#: extend/customizer.php:114
+msgid "Custom Font"
+msgstr ""
+
+#: extend/customizer.php:115
+msgid ""
+"Step 1: Insert font-face in style.css file: Refer https://css-tricks.com/"
+"snippets/css/using-font-face/.  Step 2: Insert name-font here. For example: "
+"name-font1, name-font2. Step 3: Refresh customize page to display new font "
+"in dropdown font field."
+msgstr ""
+
+#: extend/customizer.php:127
+msgid "Header Global"
+msgstr ""
+
+#: extend/customizer.php:142
+msgid "Header version"
+msgstr ""
+
+#: extend/customizer.php:143
+msgid "Select Global Header. You can override Header in config of Post/Page"
+msgstr ""
+
+#: extend/customizer.php:162
+msgid "Logo"
+msgstr ""
+
+#: extend/customizer.php:179 extend/metabox.php:122
+msgid "Logo Mobile"
+msgstr ""
+
+#: extend/customizer.php:192
+msgid "Footer Global"
+msgstr ""
+
+#: extend/customizer.php:207
+msgid "Footer version"
+msgstr ""
+
+#: extend/customizer.php:208
+msgid "Select Global Footer. You can override Footer in config of Post/Page"
+msgstr ""
+
+#: extend/customizer.php:225 extend/metabox.php:107
+msgid "General Settings"
+msgstr ""
+
+#: extend/customizer.php:241
+msgid "Type display list page"
+msgstr ""
+
+#: extend/customizer.php:246
+msgid "2 Columns with Sidebar"
+msgstr ""
+
+#: extend/customizer.php:247
+msgid "3 Columns no Sidebar"
+msgstr ""
+
+#: extend/customizer.php:248
+msgid "Style 1 with Sidebar"
+msgstr ""
+
+#: extend/customizer.php:249
+msgid "Style 2 with Sidebar"
+msgstr ""
+
+#: extend/customizer.php:250
+msgid "Style 3 with Sidebar"
+msgstr ""
+
+#: extend/customizer.php:265
+msgid "Total feature display"
+msgstr ""
+
+#: extend/customizer.php:281
+msgid "Total other feature display"
+msgstr ""
+
+#: extend/customizer.php:297
+msgid "Total attribute display"
+msgstr ""
+
+#: extend/customizer.php:318
+msgid "Header style"
+msgstr ""
+
+#: extend/customizer.php:323
+msgid "Default"
+msgstr ""
+
+#: extend/customizer.php:324
+msgid "Version 1"
+msgstr ""
+
+#: extend/customizer.php:325
+msgid "Version 2"
+msgstr ""
+
+#: extend/customizer.php:326
+msgid "Version 3"
+msgstr ""
+
+#: extend/customizer.php:327
+msgid "Version 4"
+msgstr ""
+
+#: extend/customizer.php:334
+msgid "Search Settings"
+msgstr ""
+
+#: extend/customizer.php:351
+msgid "Show Search"
+msgstr ""
+
+#: extend/customizer.php:356 extend/customizer.php:379
+#: extend/customizer.php:401 extend/customizer.php:424
+#: extend/customizer.php:446 extend/customizer.php:468
+#: extend/customizer.php:511 extend/customizer.php:553
+#: extend/customizer.php:575 extend/customizer.php:597
+#: extend/customizer.php:619 extend/customizer.php:641
+#: extend/customizer.php:663 extend/customizer.php:832
+#: extend/customizer.php:854 extend/customizer.php:877
+#: extend/customizer.php:900 extend/customizer.php:923
+#: extend/customizer.php:945 extend/customizer.php:970
+#: extend/customizer.php:992 extend/customizer.php:1014
+#: extend/customizer.php:1037 extend/customizer.php:1060
+#: extend/customizer.php:1082 extend/customizer.php:1104
+#: extend/customizer.php:1126 extend/customizer.php:1148
+#: extend/customizer.php:1170 extend/customizer.php:1199
+#: extend/customizer.php:1221 extend/customizer.php:1243
+#: extend/customizer.php:1266 extend/customizer.php:1319
+#: extend/customizer.php:1343 extend/customizer.php:1366
+#: extend/customizer.php:1516 extend/customizer.php:1537
+#: extend/customizer.php:1559 extend/customizer.php:1580
+#: extend/customizer.php:1601 extend/customizer.php:1622 extend/metabox.php:45
+#: extend/metabox.php:58
+msgid "Yes"
+msgstr ""
+
+#: extend/customizer.php:357 extend/customizer.php:380
+#: extend/customizer.php:402 extend/customizer.php:425
+#: extend/customizer.php:447 extend/customizer.php:469
+#: extend/customizer.php:512 extend/customizer.php:554
+#: extend/customizer.php:576 extend/customizer.php:598
+#: extend/customizer.php:620 extend/customizer.php:642
+#: extend/customizer.php:664 extend/customizer.php:833
+#: extend/customizer.php:855 extend/customizer.php:878
+#: extend/customizer.php:901 extend/customizer.php:924
+#: extend/customizer.php:946 extend/customizer.php:971
+#: extend/customizer.php:993 extend/customizer.php:1015
+#: extend/customizer.php:1038 extend/customizer.php:1061
+#: extend/customizer.php:1083 extend/customizer.php:1105
+#: extend/customizer.php:1127 extend/customizer.php:1149
+#: extend/customizer.php:1171 extend/customizer.php:1200
+#: extend/customizer.php:1222 extend/customizer.php:1244
+#: extend/customizer.php:1267 extend/customizer.php:1320
+#: extend/customizer.php:1344 extend/customizer.php:1367
+#: extend/customizer.php:1517 extend/customizer.php:1538
+#: extend/customizer.php:1560 extend/customizer.php:1581
+#: extend/customizer.php:1602 extend/customizer.php:1623 extend/metabox.php:46
+#: extend/metabox.php:59
+msgid "No"
+msgstr ""
+
+#: extend/customizer.php:374 extend/customizer.php:1314
+#: extend/customizer.php:1554
+msgid "Show Pickup Location"
+msgstr ""
+
+#: extend/customizer.php:396
+msgid "Show PickOff Location"
+msgstr ""
+
+#: extend/customizer.php:419
+msgid "Show PickUp Date"
+msgstr ""
+
+#: extend/customizer.php:441
+msgid "Show PickOff Date"
+msgstr ""
+
+#: extend/customizer.php:463
+msgid "Show Category"
+msgstr ""
+
+#: extend/customizer.php:486
+msgid "Remove Categories in dropdown"
+msgstr ""
+
+#: extend/customizer.php:487
+msgid "Insert ID of category like 42, 15"
+msgstr ""
+
+#: extend/customizer.php:506
+msgid "Show Type"
+msgstr ""
+
+#: extend/customizer.php:528
+msgid "Remove types in dropdown"
+msgstr ""
+
+#: extend/customizer.php:529
+msgid "Insert ID of type like 42, 15"
+msgstr ""
+
+#: extend/customizer.php:548
+msgid "Required Input: PickUp Location"
+msgstr ""
+
+#: extend/customizer.php:570
+msgid "Required Input: PickOff Location"
+msgstr ""
+
+#: extend/customizer.php:592
+msgid "Required Input: PickUp Date"
+msgstr ""
+
+#: extend/customizer.php:614
+msgid "Required Input: PickOff Date"
+msgstr ""
+
+#: extend/customizer.php:636
+msgid "Required Input: Category"
+msgstr ""
+
+#: extend/customizer.php:658
+msgid "Required Input: Type"
+msgstr ""
+
+#: extend/customizer.php:680 extend/customizer.php:1386
+msgid "Date Format"
+msgstr ""
+
+#: extend/customizer.php:681 extend/customizer.php:1387
+msgid "Use params: Y,m,d,H,i. Example: Y-m-d H:i"
+msgstr ""
+
+#: extend/customizer.php:700 extend/customizer.php:1406
+msgid "Default Hour"
+msgstr ""
+
+#: extend/customizer.php:718 extend/customizer.php:1424
+msgid "Step Time"
+msgstr ""
+
+#: extend/customizer.php:719 extend/customizer.php:1425
+msgid "Example: 15, 20. List time to choose like 07:15, 07:30, 07:45, 08:00"
+msgstr ""
+
+#: extend/customizer.php:737
+msgid "Result: Total feature display"
+msgstr ""
+
+#: extend/customizer.php:753
+msgid "Result: Total other feature display"
+msgstr ""
+
+#: extend/customizer.php:769
+msgid "Result: Total attribute display"
+msgstr ""
+
+#: extend/customizer.php:787
+msgid "Style Template"
+msgstr ""
+
+#: extend/customizer.php:804
+msgid "Template"
+msgstr ""
+
+#: extend/customizer.php:809
+msgid "Template 1"
+msgstr ""
+
+#: extend/customizer.php:810
+msgid "Template 2"
+msgstr ""
+
+#: extend/customizer.php:827
+msgid "Show Title"
+msgstr ""
+
+#: extend/customizer.php:849 extend/metabox.php:53
+msgid "Show Breadcrumbs"
+msgstr ""
+
+#: extend/customizer.php:872
+msgid "Show Booking Button"
+msgstr ""
+
+#: extend/customizer.php:895
+msgid "Show Video Button"
+msgstr ""
+
+#: extend/customizer.php:918
+msgid "Show Price"
+msgstr ""
+
+#: extend/customizer.php:940
+msgid "Show Images"
+msgstr ""
+
+#: extend/customizer.php:965
+msgid "Show Rating"
+msgstr ""
+
+#: extend/customizer.php:987
+msgid "Show Excerpt"
+msgstr ""
+
+#: extend/customizer.php:1009
+msgid "Show Feature"
+msgstr ""
+
+#: extend/customizer.php:1032
+msgid "Show other Feature"
+msgstr ""
+
+#: extend/customizer.php:1055
+msgid "Show Table Price"
+msgstr ""
+
+#: extend/customizer.php:1077
+msgid "Show Maintenance"
+msgstr ""
+
+#: extend/customizer.php:1099
+msgid "Show Calendar"
+msgstr ""
+
+#: extend/customizer.php:1121
+msgid "Show booking form"
+msgstr ""
+
+#: extend/customizer.php:1143
+msgid "Show request booking"
+msgstr ""
+
+#: extend/customizer.php:1165
+msgid "Show Related Products"
+msgstr ""
+
+#: extend/customizer.php:1178
+msgid "Calendar"
+msgstr ""
+
+#: extend/customizer.php:1194
+msgid "Show Navigation Month"
+msgstr ""
+
+#: extend/customizer.php:1216
+msgid "Show Navigation Week"
+msgstr ""
+
+#: extend/customizer.php:1238
+msgid "Show Navigation Day"
+msgstr ""
+
+#: extend/customizer.php:1261
+msgid "Show Navigation List"
+msgstr ""
+
+#: extend/customizer.php:1283
+msgid "Default View"
+msgstr ""
+
+#: extend/customizer.php:1288
+msgid "Month"
+msgstr ""
+
+#: extend/customizer.php:1289
+msgid "Week"
+msgstr ""
+
+#: extend/customizer.php:1290
+msgid "Day"
+msgstr ""
+
+#: extend/customizer.php:1291
+msgid "List"
+msgstr ""
+
+#: extend/customizer.php:1298 woocommerce/rental/ovacrs-booking-form.php:2
+msgid "Booking Form"
+msgstr ""
+
+#: extend/customizer.php:1338 extend/customizer.php:1575
+msgid "Show Pickoff Location"
+msgstr ""
+
+#: extend/customizer.php:1361
+msgid "Show Extra Resource"
+msgstr ""
+
+#: extend/customizer.php:1438
+msgid "Request Booking Form"
+msgstr ""
+
+#: extend/customizer.php:1455
+msgid "Display Tab after Description or Review Tab"
+msgstr ""
+
+#: extend/customizer.php:1456
+msgid "You can insert 9, 11, 31"
+msgstr ""
+
+#: extend/customizer.php:1475
+msgid "Thank Page"
+msgstr ""
+
+#: extend/customizer.php:1493
+msgid "Error Page"
+msgstr ""
+
+#: extend/customizer.php:1511
+msgid "Show Number"
+msgstr ""
+
+#: extend/customizer.php:1532
+msgid "Show Address"
+msgstr ""
+
+#: extend/customizer.php:1596
+msgid "Show Extra Service"
+msgstr ""
+
+#: extend/customizer.php:1617
+msgid "Show Extra Info"
+msgstr ""
+
+#: extend/customizer.php:1634
+msgid "Blog Global"
+msgstr ""
+
+#: extend/customizer.php:1649
+msgid "Date Style"
+msgstr ""
+
+#: extend/customizer.php:1654
+msgid "Style 1"
+msgstr ""
+
+#: extend/customizer.php:1655
+msgid "Style 2"
+msgstr ""
+
+#: extend/customizer.php:1670
+msgid "Default Icon Widget"
+msgstr ""
+
+#: extend/customizer.php:1671
+msgid "Insert Font Icon "
+msgstr ""
+
+#: extend/customizer.php:1683
+msgid "Layout Global"
+msgstr ""
+
+#: extend/customizer.php:1698
+msgid "Global Layout for site"
+msgstr ""
+
+#: extend/customizer.php:1701
+msgid "You can override Layout in config of Post/Page"
+msgstr ""
+
+#: extend/customizer.php:1704 extend/customizer.php:1815 extend/metabox.php:185
+msgid "Right Sidebar"
+msgstr ""
+
+#: extend/customizer.php:1705 extend/customizer.php:1816 extend/metabox.php:186
+msgid "Left Sidebar"
+msgstr ""
+
+#: extend/customizer.php:1706 extend/customizer.php:1814 extend/metabox.php:187
+msgid "No Sidebar"
+msgstr ""
+
+#: extend/customizer.php:1707 extend/customizer.php:1817 extend/metabox.php:188
+msgid "Full Width"
+msgstr ""
+
+#: extend/customizer.php:1724 extend/metabox.php:196
+msgid "Width of site"
+msgstr ""
+
+#: extend/customizer.php:1729 extend/metabox.php:203
+msgid "Wide"
+msgstr ""
+
+#: extend/customizer.php:1730 extend/metabox.php:204
+msgid "Boxed"
+msgstr ""
+
+#: extend/customizer.php:1747
+msgid "Sidebar column"
+msgstr ""
+
+#: extend/customizer.php:1748 extend/customizer.php:1775
+#: extend/customizer.php:1835 extend/customizer.php:1862
+msgid "main column + sidebar column = 12 columns"
+msgstr ""
+
+#: extend/customizer.php:1753 extend/customizer.php:1840
+msgid "1 column"
+msgstr ""
+
+#: extend/customizer.php:1754 extend/customizer.php:1841
+msgid "2 columns"
+msgstr ""
+
+#: extend/customizer.php:1755 extend/customizer.php:1842
+msgid "3 columns"
+msgstr ""
+
+#: extend/customizer.php:1756 extend/customizer.php:1843
+msgid "4 columns"
+msgstr ""
+
+#: extend/customizer.php:1757 extend/customizer.php:1844
+msgid "5 columns"
+msgstr ""
+
+#: extend/customizer.php:1758 extend/customizer.php:1785
+#: extend/customizer.php:1845 extend/customizer.php:1872
+msgid "6 columns"
+msgstr ""
+
+#: extend/customizer.php:1774
+msgid "Main column"
+msgstr ""
+
+#: extend/customizer.php:1780 extend/customizer.php:1867
+msgid "11 columns"
+msgstr ""
+
+#: extend/customizer.php:1781 extend/customizer.php:1868
+msgid "10 columns"
+msgstr ""
+
+#: extend/customizer.php:1782 extend/customizer.php:1869
+msgid "9 columns"
+msgstr ""
+
+#: extend/customizer.php:1783 extend/customizer.php:1870
+msgid "8 columns"
+msgstr ""
+
+#: extend/customizer.php:1784 extend/customizer.php:1871
+msgid "7 columns"
+msgstr ""
+
+#: extend/customizer.php:1794
+msgid "Woocommerce setting"
+msgstr ""
+
+#: extend/customizer.php:1809
+msgid "Layout"
+msgstr ""
+
+#: extend/customizer.php:1834
+msgid "Woo Sidebar column"
+msgstr ""
+
+#: extend/customizer.php:1861
+msgid "Woo Main column"
+msgstr ""
+
+#: extend/metabox.php:29
+msgid "Show Page Heading"
+msgstr ""
+
+#: extend/metabox.php:39
+msgid "Show title of page"
+msgstr ""
+
+#: extend/metabox.php:40
+msgid "Allow display title of page"
+msgstr ""
+
+#: extend/metabox.php:76
+msgid "Post Settings"
+msgstr ""
+
+#: extend/metabox.php:85
+msgid "Link audio or video"
+msgstr ""
+
+#: extend/metabox.php:86
+msgid "Insert link audio or video use for video/audio post-format"
+msgstr ""
+
+#: extend/metabox.php:94
+msgid "Gallery image"
+msgstr ""
+
+#: extend/metabox.php:95
+msgid "image in gallery post format"
+msgstr ""
+
+#: extend/metabox.php:115
+msgid "Logo Desktop"
+msgstr ""
+
+#: extend/metabox.php:116
+msgid ""
+"If empty, The logo will get from Appearance >> Customize >> Header Global >> "
+"Logo"
+msgstr ""
+
+#: extend/metabox.php:123
+msgid ""
+"If empty, The logo will get from Appearance >> Customize >> Header Global >> "
+"Logo Mobile"
+msgstr ""
+
+#: extend/metabox.php:129
+msgid "Main Color"
+msgstr ""
+
+#: extend/metabox.php:130
+msgid ""
+"If you empty, the color will use in Appearance >> Customize >> Typography "
+"setting >> Main Color"
+msgstr ""
+
+#: extend/metabox.php:137
+msgid "Second Color"
+msgstr ""
+
+#: extend/metabox.php:138
+msgid ""
+"If you empty, the color will use in Appearance >> Customize >> Typography "
+"setting >> Second Color"
+msgstr ""
+
+#: extend/metabox.php:147
+msgid "Header Version"
+msgstr ""
+
+#: extend/metabox.php:149 extend/metabox.php:169
+msgid "This value will override value in customizer"
+msgstr ""
+
+#: extend/metabox.php:158
+msgid "Background Header"
+msgstr ""
+
+#: extend/metabox.php:159
+msgid "Display behind Menu"
+msgstr ""
+
+#: extend/metabox.php:167
+msgid "Footer Version"
+msgstr ""
+
+#: extend/metabox.php:178
+msgid "Main Layout"
+msgstr ""
+
+#: extend/metabox.php:179 extend/metabox.php:197
+msgid "This value will override value in theme customizer"
+msgstr ""
+
+#: extend/metabox.php:184 extend/metabox.php:202
+msgid "Global in customizer"
+msgstr ""
+
+#: extend/ova_walker_nav_menu.php:203
+msgid "Add a menu"
+msgstr ""
+
+#: extend/register_menu_widget.php:6
+msgid "Primary Menu"
+msgstr ""
+
+#: extend/register_menu_widget.php:20 extend/register_menu_widget.php:22
+msgid "Main Sidebar"
+msgstr ""
+
+#: extend/register_menu_widget.php:32
+msgid "Footer copyright"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:393
+#: framework/class-tgm-plugin-activation.php:912
+#: framework/class-tgm-plugin-activation.php:2618
+#: framework/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:394
+#: framework/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:395
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:1019
+#: framework/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2427
+#, php-format
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2567
+msgid "unknown"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2634
+msgid "Type"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2639
+msgid "Status"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3594
+msgid "Show Details"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3594
+msgid "Hide Details"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/init.php:7 framework/init.php:22 framework/init.php:39
+#: framework/init.php:52
+msgid "default"
+msgstr ""
+
+#: framework/init.php:8 framework/init.php:23 framework/init.php:40
+#: framework/init.php:53
+msgid "version1"
+msgstr ""
+
+#: framework/init.php:9 framework/init.php:24 framework/init.php:41
+#: framework/init.php:54
+msgid "version2"
+msgstr ""
+
+#: framework/init.php:10 framework/init.php:25
+msgid "version3"
+msgstr ""
+
+#: framework/init.php:11 framework/init.php:26
+msgid "version4"
+msgstr ""
+
+#: framework/init.php:21 framework/init.php:51
+msgid "Global in Customizer"
+msgstr ""
+
+#: framework/init.php:493
+msgid "<div class=\"blog_pagination\"><ul class=\"pagination\">"
+msgstr ""
+
+#: framework/init.php:506 framework/init.php:519
+msgid "<li><span class=\"pagi_dots\">...</span></li>"
+msgstr ""
+
+#: framework/init.php:529
+msgid "</ul></div>"
+msgstr ""
+
+#: framework/init.php:703
+msgid "Search"
+msgstr ""
+
+#: framework/init.php:711
+msgid "Tag"
+msgstr ""
+
+#: framework/init.php:719 framework/init.php:723
+msgid "Post Detail"
+msgstr ""
+
+#: framework/init.php:731
+msgid "404 Page"
+msgstr ""
+
+#: page.php:10
+msgid "Sorry, no pages matched your criteria."
+msgstr ""
+
+#: search.php:8
+msgid "Search Results for: "
+msgstr ""
+
+#: woocommerce/rental/content-product_2columns.php:58
+#: woocommerce/rental/content-product_2columns.php:64
+#: woocommerce/rental/content-product_3columns.php:60
+#: woocommerce/rental/content-product_3columns.php:66
+#: woocommerce/rental/content-product_style1.php:63
+#: woocommerce/rental/content-product_style1.php:69
+#: woocommerce/rental/content-product_style2.php:59
+#: woocommerce/rental/content-product_style2.php:65
+#: woocommerce/rental/content-product_style3.php:58
+#: woocommerce/rental/content-product_style3.php:64
+#: woocommerce/rental/content-single-product.php:133
+#: woocommerce/rental/content-single-product.php:142
+#: woocommerce/rental/content-single-product2.php:134
+#: woocommerce/rental/content-single-product2.php:143
+msgid "/ Day"
+msgstr ""
+
+#: woocommerce/rental/content-product_2columns.php:61
+#: woocommerce/rental/content-product_3columns.php:63
+#: woocommerce/rental/content-product_style1.php:66
+#: woocommerce/rental/content-product_style2.php:62
+#: woocommerce/rental/content-product_style3.php:61
+#: woocommerce/rental/content-single-product.php:128
+#: woocommerce/rental/content-single-product.php:138
+#: woocommerce/rental/content-single-product2.php:129
+#: woocommerce/rental/content-single-product2.php:139
+msgid "/ Hour"
+msgstr ""
+
+#: woocommerce/rental/content-product_2columns.php:72
+#: woocommerce/rental/content-product_3columns.php:74
+msgid "Rent It"
+msgstr ""
+
+#: woocommerce/rental/content-product_2columns.php:92
+#: woocommerce/rental/content-product_3columns.php:94
+#: woocommerce/rental/content-product_style1.php:50
+msgid " reviews"
+msgstr ""
+
+#: woocommerce/rental/content-single-product.php:57
+#: woocommerce/rental/content-single-product2.php:56
+msgid "Booking Now"
+msgstr ""
+
+#: woocommerce/rental/ovacrs-booking-form.php:3
+msgid "This field is required."
+msgstr ""
+
+#: woocommerce/rental/ovacrs-booking-form.php:9
+msgid "Pick-up Location"
+msgstr ""
+
+#: woocommerce/rental/ovacrs-booking-form.php:18
+msgid "Drop-off Location"
+msgstr ""
+
+#: woocommerce/rental/ovacrs-booking-form.php:28
+msgid "Pick-up Date"
+msgstr ""
+
+#: woocommerce/rental/ovacrs-booking-form.php:33
+msgid "Drop-off Date"
+msgstr ""
+
+#: woocommerce/rental/ovacrs-booking-form.php:51
+msgid "Extra Service"
+msgstr ""
+
+#: woocommerce/rental/ovacrs-booking-form.php:70
+msgid "Hour(s)"
+msgstr ""
+
+#: woocommerce/rental/ovacrs-booking-form.php:72
+msgid "Day(s)"
+msgstr ""
+
+#: woocommerce/rental/ovacrs-booking-form.php:74
+msgid "Total"
+msgstr ""
+
+#: woocommerce/rental/ovacrs-booking-form.php:89
+msgid "Booking"
+msgstr ""
+
+#: woocommerce/rental/ovacrs-calendar.php:25
+msgid "more"
+msgstr ""
+
+#: woocommerce/rental/ovacrs-calendar.php:31
+msgid "Avaiable"
+msgstr ""
+
+#: woocommerce/rental/ovacrs-calendar.php:36
+msgid "Rent full day: No . Rent Hour: Yes"
+msgstr ""
+
+#: woocommerce/rental/ovacrs-item-info.php:25
+msgid "Table Price by Hour"
+msgstr ""
+
+#: woocommerce/rental/ovacrs-item-info.php:32
+msgid "Regular Price / Hour: "
+msgstr ""
+
+#: woocommerce/rental/ovacrs-item-info.php:46
+#: woocommerce/rental/ovacrs-item-info.php:188
+msgid "Global Discount"
+msgstr ""
+
+#: woocommerce/rental/ovacrs-item-info.php:50
+#: woocommerce/rental/ovacrs-item-info.php:59
+#: woocommerce/rental/ovacrs-item-info.php:118
+#: woocommerce/rental/ovacrs-item-info.php:128
+msgid "Duration (Hour)"
+msgstr ""
+
+#: woocommerce/rental/ovacrs-item-info.php:51
+#: woocommerce/rental/ovacrs-item-info.php:60
+#: woocommerce/rental/ovacrs-item-info.php:119
+#: woocommerce/rental/ovacrs-item-info.php:129
+#: woocommerce/rental/ovacrs-item-info.php:193
+#: woocommerce/rental/ovacrs-item-info.php:203
+#: woocommerce/rental/ovacrs-item-info.php:276
+msgid "Price"
+msgstr ""
+
+#: woocommerce/rental/ovacrs-item-info.php:80
+#: woocommerce/rental/ovacrs-item-info.php:225
+msgid "Special Time with Price"
+msgstr ""
+
+#: woocommerce/rental/ovacrs-item-info.php:84
+#: woocommerce/rental/ovacrs-item-info.php:94
+#: woocommerce/rental/ovacrs-item-info.php:229
+#: woocommerce/rental/ovacrs-item-info.php:241
+msgid "Start Date"
+msgstr ""
+
+#: woocommerce/rental/ovacrs-item-info.php:85
+#: woocommerce/rental/ovacrs-item-info.php:95
+#: woocommerce/rental/ovacrs-item-info.php:230
+#: woocommerce/rental/ovacrs-item-info.php:242
+msgid "End Date"
+msgstr ""
+
+#: woocommerce/rental/ovacrs-item-info.php:86
+#: woocommerce/rental/ovacrs-item-info.php:96
+msgid "Price (Hour)"
+msgstr ""
+
+#: woocommerce/rental/ovacrs-item-info.php:87
+#: woocommerce/rental/ovacrs-item-info.php:97
+#: woocommerce/rental/ovacrs-item-info.php:232
+#: woocommerce/rental/ovacrs-item-info.php:244
+msgid "Special Discount"
+msgstr ""
+
+#: woocommerce/rental/ovacrs-item-info.php:99
+#: woocommerce/rental/ovacrs-item-info.php:246
+msgid "View Discount"
+msgstr ""
+
+#: woocommerce/rental/ovacrs-item-info.php:106
+#: woocommerce/rental/ovacrs-item-info.php:253
+msgid "Time Discount: "
+msgstr ""
+
+#: woocommerce/rental/ovacrs-item-info.php:137
+#: woocommerce/rental/ovacrs-item-info.php:284
+msgid "No Discount in this time"
+msgstr ""
+
+#: woocommerce/rental/ovacrs-item-info.php:143
+#: woocommerce/rental/ovacrs-item-info.php:290
+msgid "Close"
+msgstr ""
+
+#: woocommerce/rental/ovacrs-item-info.php:167
+msgid "Table Price by Day"
+msgstr ""
+
+#: woocommerce/rental/ovacrs-item-info.php:174
+msgid "Regular Price / Day: "
+msgstr ""
+
+#: woocommerce/rental/ovacrs-item-info.php:192
+#: woocommerce/rental/ovacrs-item-info.php:202
+#: woocommerce/rental/ovacrs-item-info.php:265
+#: woocommerce/rental/ovacrs-item-info.php:275
+msgid "Duration (Day)"
+msgstr ""
+
+#: woocommerce/rental/ovacrs-item-info.php:231
+#: woocommerce/rental/ovacrs-item-info.php:243
+msgid "Price (Day)"
+msgstr ""
+
+#: woocommerce/rental/ovacrs-item-info.php:266
+msgid "Price "
+msgstr ""
+
+#: woocommerce/rental/ovacrs-item-info.php:320
+msgid "Vehicle Maintenance"
+msgstr ""
+
+#: woocommerce/rental/ovacrs-item-info.php:325
+msgid "You cant rent car in this time"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:37
+msgid "Reviews"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:59
+msgid "There are no reviews yet."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:75
+msgid "Add a review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:75
+#, php-format
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:76
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:86
+msgid "Submit"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:92
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a review."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:96
+msgid "Your rating"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:97
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:98
+msgid "Perfect"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:99
+msgid "Good"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:100
+msgid "Average"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:101
+msgid "Not that bad"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:102
+msgid "Very poor"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:106
+msgid "Your review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:115
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: woocommerce/single-product/product-image.php:46
+msgid "Awaiting product image"
+msgstr ""

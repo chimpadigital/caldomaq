@@ -1,0 +1,20 @@
+
+#booking-filter .row-actions{
+	left: 0;
+	padding-top: 10px;
+}
+.booking_filter{
+	margin-top: 30px;
+}
+.booking_filter input, .booking_filter select{
+	height: 40px;
+	border: 1px solid #ccc;
+}
+.booking_filter button.button{
+	height: 40px;
+	padding-left: 20px;
+	padding-right: 20px;
+	background-color: #343434;
+	border: 1px solid #343434;
+	color: #fff;
+}
