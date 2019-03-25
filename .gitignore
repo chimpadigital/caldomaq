@@ -1,6 +1,6 @@
 *.log
 *desktop.ini
-
+/wp-config.php
 /.htaccess
 /license.txt
 /readme.html
